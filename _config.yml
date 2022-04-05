@@ -8,11 +8,10 @@ remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 baseurl: "/curriculum-test" # the subpath of your site, e.g. /blog/
 url: https://jake-chipps.github.io/curriculum-test/ # the base hostname & protocol for your site
 git_address: https://github.com/jake-chipps/curriculum-test
-git_edit_address: 
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
-bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+bootwatch: cerulean # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
 # Build settings
 markdown: kramdown
@@ -31,7 +30,7 @@ exclude:
   - .gitignore
   - README.md
   - vendor
-timezone: Europe/Berlin
+
 defaults:
 - scope:
     path: _posts
