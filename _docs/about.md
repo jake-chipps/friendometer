@@ -1,3 +1,8 @@
+---
+title: About
+permalink: /docs/about/
+---
+
 # Storytelling Project
 
 ## Grant Title
