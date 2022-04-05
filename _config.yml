@@ -1,15 +1,14 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Ledger Art
+email: storytelling@montana.edu
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  CS & IEFA Curriculum for Montana
 lang: en-US
-
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+baseurl: "/curriculum-test" # the subpath of your site, e.g. /blog/
+url: https://jake-chipps.github.io/curriculum-test/ # the base hostname & protocol for your site
+git_address: https://github.com/jake-chipps/curriculum-test
+git_edit_address: 
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
