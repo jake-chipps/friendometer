@@ -1,11 +1,31 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
 
-- title: Examples
+- title: 1 Ledger Art
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - 1-1 Tribal Areas of Montana & Treaties
+  - 1-2 Introduction to Ledger Art
+
+- title: 2 Circuits
+  docs:
+  - 2-1 Simple Circuits
+  - 2-2 Parallel and Series Circuits
+
+- title: 3 Programming a Circuit
+  docs:
+  - 3-1 Introduce the Ledger Art Project
+  - 3-2 Design the Ledger Art Project
+  - 3-3 Program the Ledger Art Project
+
+- title: 4 Encryption
+  docs:
+  - 4-1 Binary
+  - 4-2 Encryption
+  - 4-3 Talking without Words
+
+- title: 5 Relocation
+  docs:
+  - 5-1 Relocation
+  - 5-2 Human-Computer Interaction
+  - 5-3 Telling Stories

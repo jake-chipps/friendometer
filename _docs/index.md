@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Ledger Art Curriculum
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
