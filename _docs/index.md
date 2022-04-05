@@ -4,47 +4,69 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+## 1 Ledger Art
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+### 1-1 Tribal Areas of Montana & Treaties
+* Students will be able to identify and label Montana’s seven tribal reservations on a map.
+* Students will be able to explain what a treaty is and why they are important.
 
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `assets/img/logonav.png` with your own logo.
+### 1-2 Introduction to Ledger Art
+*	Students will be able to identify what ledger art is.
+*	Students will be able to define symbolism and describe the symbolism in contemporary ledger art.
 
-## Writing content
+## 2 Circuits
 
-### Docs
+### 2-1 Simple Circuits
+*	Students will be able to understand and construct simple circuits.
+*	Students will be able to identify necessary components of a circuit (power, conductors, polarity, etc.)
+*	Students will be able to describe the transfer of energy in a circuit.
+*	Students will be able to explain how we use programming to manipulate the transfer of energy in a circuit.
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+### 2-2 Parallel and Series Circuits
+*	Students will be able to understand and construct parallel and series circuits.
+*	Students will be able to describe the voltage difference between a parallel and series circuit.
+* Students will be able to explain how a single microcontroller can control the flow of multiple circuits.
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+## 3 Physical Computing
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
+### 3-1 Introduce the Ledger Art Project
+*	Students will be able to understand and construct a visual narrative in the style of ledger art.
 
-Hello World!
-```
+### 3-2 Design the Ledger Art Project
+*	Students will be able to understand the make design choices for computational circuits.
+*	Students will be able to understand and construct a visual narrative in the style of ledger art.
 
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
+### 3-3 Program the Ledger Art Project
+*	Students will be able to understand and program a computational circuit.
+*	Students will be able to recognize and explain functions as an abstraction.
+* Students will be able to identify bugs and debug their code.
 
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
+## 4 Encryption
 
-### Blog posts
+### 4-1 Binary
+*	Students will be able to identify binary numbers.
+*	Students will be able to convert decimal to binary and explain their process.
+*	Students will be able to design and describe a communication protocol using binary numbers.
 
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
+### 4-2 Encryption
+*	Students will be able to understand and explain the need for encryption.
+*	Students will be able to design and develop an encryption system.
+*	Students will be able to encrypt information using their encryption system.
+*	Students will be able to use functions and sequences to program an encrypted message.
 
-### Pages
+### 4-3 Talking without Words
+* Students will be able to describe American Indian traditions of nonverbal communication.
 
-The homepage is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap components](http://getbootstrap.com/components/))
+## 5 The Power of Stories
 
-In order to add a new page, create a new `.html` or `.md` (markdown) file under root directory and link it in `_includes/topnav.html`.
+### 5-1 Relocation
+*	Students will be able to describe how Tribes in Montana were affected by relocation and assimilation policies.
+*	Students will be able to discuss how Tribes in Montana were affected by specific treaties and policies.
+
+### 5-2 Human-Computer Interaction
+*	Students will be able to identify and discuss the ways stories can confirm or deny identity.
+* Students will be able to use sensor data to discuss how people interact with technology differently.
+
+### 5-3 Telling Stories
+*	Students will be able to identify and discuss the need to consider diversity when designing technology.
+* Students will be able to program a computational artifact to interface with human voices.

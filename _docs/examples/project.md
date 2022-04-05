@@ -1,5 +1,3 @@
-# [Project Information](project-information/README.md)
-
 # 1 Ledger Art
 
 ## 1-1 Tribal Areas of Montana & Treaties
