@@ -14,9 +14,6 @@ For each lesson,
 - Save lesson plan images in _docs/resources/images/
   - File name should be PART-LESSON-DESCRIPTOR.EXTENSION (e.g. 1-1-map.png)
 - Link the image in the .md file
-```
-![reservations map](../resources/images/1-1-map.png)
-```
 - Check all links
 
 - [X] 1-1
