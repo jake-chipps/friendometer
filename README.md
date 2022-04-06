@@ -9,7 +9,7 @@ When linking a local resource, use the code
 ```
 [Resource Title](..resources/FILENAME)
 ```
-Begin all lessons with Subject/Course as header 2 (header 1 is inherited from the page title).
+Begin all lessons with Subject as header 2 (header 1 is inherited from the page title).
 
 For each lesson, 
 - Copy and format content from MS Word
