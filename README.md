@@ -40,3 +40,5 @@ For each lesson,
   - [ ] Add visual arts standards
   - [ ] Create scaffold for creating symbolism in stories
   - [ ] Need card stock dimensions 
+  - [ ] Change footer on Brainstorm Posters
+  - [ ] Change footer on Brainstorm Scoot
