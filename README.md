@@ -7,7 +7,7 @@ When linking an image, use the code
 ```
 When linking a local resource, use the code
 ```
-[File Name](..resources/FILENAME)
+[Resource Title](..resources/FILENAME)
 ```
 Begin all lessons with Subject/Course as header 2 (header 1 is inherited from the page title).
 
