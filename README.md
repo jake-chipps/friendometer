@@ -25,8 +25,8 @@ For each lesson,
 - [X] 1-2
 - [X] 2-1
 - [X] 2-2
-- [ ] 3-1 (needs enhancement due to change from narrative to symbols)
-- [ ] 3-2
+- [ ] 3-1 (needs enhancement due to change from narrative to symbols and visual arts standards)
+- [ ] 3-2 (needs examples of ledger art projects and visual arts standards)
 - [ ] 3-3
 - [ ] 4-1
 - [ ] 4-2
@@ -42,3 +42,6 @@ For each lesson,
   - [ ] Need card stock dimensions 
   - [ ] Change footer on Brainstorm Posters
   - [ ] Change footer on Brainstorm Scoot
+- [ ] 3-2
+  - [ ] Add visual arts standards
+  - [ ] Create example Ledger Art Projects
