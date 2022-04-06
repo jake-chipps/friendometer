@@ -1,68 +1,34 @@
 # TODO
 
 ## Content Transfer
-- 1-1
-  - [X] Move and format content (start at header 2, as header 1 is already in the template)
-  - [X] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [X] Check all links
-- 1-2
-  - [X] Move and format content (start at header 2, as header 1 is already in the template)
-  - [X] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [X] Check all links
-- 2-1
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 2-2
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 3-1
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 3-2
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 3-3
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 4-1
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 4-2
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 4-3
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 5-1
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 5-2
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
-- 5-3
-  - [ ] Move and format content (start at header 2, as header 1 is already in the template)
-  - [ ] Save images in /assets/img/ using file name PART-LESSON-DESCRIPTION.EXTENSION (e.g. 1-1-map)
-  - [ ] Link image in lesson
-  - [ ] Check all links
+When linking an image, use the code
+```
+![image description](../resources/images/FILENAME)
+```
+Begin all lessons with Subject/Course as header 2.
+
+For each lesson, 
+- Copy and format content from MS Word
+- Save all resources as pdf and add to _docs/resources
+  - Use same file name as in SharePoint
+- Save lesson plan images in _docs/resources/images/
+  - File name should be PART-LESSON-DESCRIPTOR.EXTENSION (e.g. 1-1-map.png)
+- Link the image in the .md file
+```
+![reservations map](../resources/images/1-1-map.png)
+```
+- Check all links
+
+- [X] 1-1
+- [X] 1-2
+- [ ] 2-1
+- [ ] 2-2
+- [ ] 3-1
+- [ ] 3-2
+- [ ] 3-3
+- [ ] 4-1
+- [ ] 4-2
+- [ ] 4-3
+- [ ] 5-1
+- [ ] 5-2
+- [ ] 5-3
