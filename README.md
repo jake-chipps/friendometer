@@ -9,7 +9,7 @@ When linking a local resource, use the code
 ```
 [Resource Title](..resources/FILENAME)
 ```
-Do not touch the yml code on lines 1-4
+Do not touch the yml code on lines 1-4.\
 On line 5, Begin all lessons with Subject as header 2 (header 1 is inherited from the page title).
 
 For each lesson, 
