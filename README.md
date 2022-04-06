@@ -34,3 +34,9 @@ For each lesson,
 - [ ] 5-1
 - [ ] 5-2
 - [ ] 5-3
+
+## Curriculum Enhancement
+- [ ] 3-1
+  - [ ] Add visual arts standards
+  - [ ] Create scaffold for creating symbolism in stories
+  - [ ] Need card stock dimensions 
