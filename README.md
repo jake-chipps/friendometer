@@ -28,7 +28,7 @@ For each lesson,
 - [ ] 3-1 (needs enhancement due to change from narrative to symbols and visual arts standards)
 - [ ] 3-2 (needs examples of ledger art projects and visual arts standards)
 - [X] 3-3
-- [ ] 4-1
+- [X] 4-1
 - [ ] 4-2
 - [ ] 4-3
 - [ ] 5-1
