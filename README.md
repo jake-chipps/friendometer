@@ -25,7 +25,7 @@ For each lesson,
 - [X] 1-2
 - [X] 2-1
 - [X] 2-2
-- [ ] 3-1
+- [ ] 3-1 (needs enhancement due to change from narrative to symbols)
 - [ ] 3-2
 - [ ] 3-3
 - [ ] 4-1
