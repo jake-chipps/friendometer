@@ -29,7 +29,7 @@ For each lesson,
 - [ ] 3-2 (needs examples of ledger art projects and visual arts standards)
 - [X] 3-3
 - [X] 4-1
-- [ ] 4-2
+- [X] 4-2
 - [ ] 4-3
 - [ ] 5-1
 - [ ] 5-2
