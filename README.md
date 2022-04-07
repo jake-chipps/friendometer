@@ -1,5 +1,17 @@
 # TODO
 
+
+## Curriculum Enhancement
+- [ ] 3-1
+  - [ ] Add visual arts standards
+  - [ ] Create scaffold for creating symbolism in stories
+  - [ ] Need card stock dimensions 
+  - [ ] Change footer on Brainstorm Posters
+  - [ ] Change footer on Brainstorm Scoot
+- [ ] 3-2
+  - [ ] Add visual arts standards
+  - [ ] Create example Ledger Art Projects
+
 ## Content Transfer
 When linking an image, use the code
 ```
@@ -34,14 +46,3 @@ For each lesson,
 - [X] 5-1
 - [X] 5-2
 - [X] 5-3
-
-## Curriculum Enhancement
-- [ ] 3-1
-  - [ ] Add visual arts standards
-  - [ ] Create scaffold for creating symbolism in stories
-  - [ ] Need card stock dimensions 
-  - [ ] Change footer on Brainstorm Posters
-  - [ ] Change footer on Brainstorm Scoot
-- [ ] 3-2
-  - [ ] Add visual arts standards
-  - [ ] Create example Ledger Art Projects
