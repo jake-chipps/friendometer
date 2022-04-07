@@ -33,7 +33,7 @@ For each lesson,
 - [X] 4-3
 - [X] 5-1
 - [X] 5-2
-- [ ] 5-3
+- [X] 5-3
 
 ## Curriculum Enhancement
 - [ ] 3-1
