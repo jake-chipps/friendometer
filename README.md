@@ -17,7 +17,7 @@ For each lesson,
 - Save all resources as pdf and add to _docs/resources
   - Use same file name as in SharePoint
 - Save lesson plan images in _docs/resources/images/
-  - File name should be PART-LESSON-DESCRIPTOR.EXTENSION (e.g. 1-1-map.png)
+  - File name should be PART-LESSON_DESCRIPTOR1-DESCRIPTOR2.EXTENSION (e.g. 2-2_cat-circuit.png)
 - Link the image in the .md file
 - Check all links
 
