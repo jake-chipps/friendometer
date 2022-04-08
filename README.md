@@ -1,11 +1,14 @@
 # TODO
 
+## User Experience
+- [ ] /_docs/index.md
+  - [ ] Create a big picture summary of the curriculum and the connections made.
 
 ## Curriculum Enhancement
 - [ ] 3-1
   - [ ] Add visual arts standards
   - [ ] Create scaffold for creating symbolism in stories
-  - [ ] Need card stock dimensions 
+  - [ ] Need card stock dimensions
   - [ ] Change footer on Brainstorm Posters
   - [ ] Change footer on Brainstorm Scoot
 - [ ] 3-2
@@ -24,7 +27,7 @@ When linking a local resource, use the code
 Do not touch the yml code on lines 1-4.  
 On line 5, begin all lessons with Subject as header 2 (header 1 is inherited from the page title).
 
-For each lesson, 
+For each lesson,
 - Copy and format content from MS Word
 - Save all resources as pdf and add to _docs/resources
   - Use same file name as in SharePoint
