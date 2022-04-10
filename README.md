@@ -1,3 +1,33 @@
+# Standards of Practice
+
+## Member Comments
+To add a member comment:
+- Go to [main.scss](./assets/css/main.scss)
+- At the bottom of the page, add the following code:
+```
+.name {
+  color: YourColor;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Name Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+```
+To make a comment in line, write the following code:
+```
+<span class="name">Your comment</span>
+```
+
+## Using TODOs Inline
+To create a todo in the text, add the following code:
+```
+<span class="todo">The TODO text</span>
+```
+
 # TODO
 
 ## Curriculum Enhancement
