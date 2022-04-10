@@ -17,6 +17,8 @@ To add yourself as a member who can comment:
   }
 }
 ```
+- Change name to your first name both in the class name and the content. Change YourColor to magenta if you are faculty or orange if you are a student.
+
 To make a comment in line, write the following code:
 ```
 <span class="name">Your comment</span>
