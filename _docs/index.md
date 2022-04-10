@@ -4,69 +4,57 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## 1 Ledger Art
+## An Overview of the Ledger Art Curriculum
 
-### 1-1 Tribal Areas of Montana & Treaties
-* Students will be able to identify and label Montana’s seven tribal reservations on a map.
-* Students will be able to explain what a treaty is and why they are important.
+This curriculum introduces students to programming physical computational
+artifacts through an exploration of past and contemporary ledger art by Tribal
+members of Montana.
 
-### 1-2 Introduction to Ledger Art
-*	Students will be able to identify what ledger art is.
-*	Students will be able to define symbolism and describe the symbolism in contemporary ledger art.
+### Ledger Art
+Students are introduced to the formation of reservations through treaties
+between the US Government and Tribal Nations. Ledger art is explored as an art
+form that originated on the reservations by using available materials, and students
+analyze contemporary Montana ledger art through symbolism. Students
+begin to consider stories from their lives that they want to represent in the style
+of ledger art and consider the symbolic representations they will use to convey
+a visual narrative.
 
-## 2 Circuits
+### Circuits
+Students are introduced to simple, parallel, and series circuits in their quest
+to add LEDs and computational functionality to their ledger art projects. Science
+concepts such as current, polarity, voltage, and conductors are explored. Students
+design a circuit on their ledger art projects using a microcontroller and LEDs
+to emphasize key symbolic representations of their visual narratives.
 
-### 2-1 Simple Circuits
-*	Students will be able to understand and construct simple circuits.
-*	Students will be able to identify necessary components of a circuit (power, conductors, polarity, etc.)
-*	Students will be able to describe the transfer of energy in a circuit.
-*	Students will be able to explain how we use programming to manipulate the transfer of energy in a circuit.
+### Programming
+Students use pair programming techniques to code the LEDs on their ledger art
+projects to emphasize key elements of their visual narratives. Students are
+introduced to algorithms, functions and debugging. Students use their ledger art
+inspired projects to share their stories.
 
-### 2-2 Parallel and Series Circuits
-*	Students will be able to understand and construct parallel and series circuits.
-*	Students will be able to describe the voltage difference between a parallel and series circuit.
-* Students will be able to explain how a single microcontroller can control the flow of multiple circuits.
+### Encryption
+Students are introduced to communication protocols and reflect on their ledger
+art projects as a form of communication. Students create a binary message sending
+device using any materials in their area to develop a method of communicating
+a "yes or no" response. Students are introduced to binary using visual cards and use
+a structured card game to convert numbers in decimal to binary. Students reflect
+on the privacy of information and how we hide our stories from some. Students
+are introduced to encryption, and create a communication protocol that translates
+the letters of the alphabet to decimal and then to binary. Students use starter
+code to program the Neopixels on the microcontroller on their ledger art project
+to display a message in binary representation as a way to encrypt a private message
+as another layer on their already functioning ledger art project. Students are
+introduced to nonverbal communication methods such as sign language used and nearly
+lost by Montana Tribes.
 
-## 3 Physical Computing
-
-### 3-1 Introduce the Ledger Art Project
-*	Students will be able to understand and construct a visual narrative in the style of ledger art.
-
-### 3-2 Design the Ledger Art Project
-*	Students will be able to understand the make design choices for computational circuits.
-*	Students will be able to understand and construct a visual narrative in the style of ledger art.
-
-### 3-3 Program the Ledger Art Project
-*	Students will be able to understand and program a computational circuit.
-*	Students will be able to recognize and explain functions as an abstraction.
-* Students will be able to identify bugs and debug their code.
-
-## 4 Encryption
-
-### 4-1 Binary
-*	Students will be able to identify binary numbers.
-*	Students will be able to convert decimal to binary and explain their process.
-*	Students will be able to design and describe a communication protocol using binary numbers.
-
-### 4-2 Encryption
-*	Students will be able to understand and explain the need for encryption.
-*	Students will be able to design and develop an encryption system.
-*	Students will be able to encrypt information using their encryption system.
-*	Students will be able to use functions and sequences to program an encrypted message.
-
-### 4-3 Talking without Words
-* Students will be able to describe American Indian traditions of nonverbal communication.
-
-## 5 The Power of Stories
-
-### 5-1 Relocation
-*	Students will be able to describe how Tribes in Montana were affected by relocation and assimilation policies.
-*	Students will be able to discuss how Tribes in Montana were affected by specific treaties and policies.
-
-### 5-2 Human-Computer Interaction
-*	Students will be able to identify and discuss the ways stories can confirm or deny identity.
-* Students will be able to use sensor data to discuss how people interact with technology differently.
-
-### 5-3 Telling Stories
-*	Students will be able to identify and discuss the need to consider diversity when designing technology.
-* Students will be able to program a computational artifact to interface with human voices.
+### Storytelling
+Students revisit the formation of reservations by analyzing four treaties, and
+in dong so, are introduced to termination, relocation, and forced assimilation.
+Students discuss the importance and power of telling stories. Students are introduced
+to human-computer interaction and discuss the ways humans interact with technology
+to tell their stories. Students are introduced to sensors, collect data using
+the sound sensor on the microcontroller, and discuss the diversity of data of
+multiple users. Students discuss the need for inclusive design when making new
+technologies. Students program the sound sensor on their ledger art project to
+enable their light patterns when they speak. Students tell their stories to their
+peers, supplemented by the symbolic narratives of their ledger art projects.
