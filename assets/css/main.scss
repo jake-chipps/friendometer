@@ -19,3 +19,40 @@
   "syntax-highlighting",
   "jekyll-doc-theme"
 ;
+
+// Member comments
+.todo{
+  color: Red;
+  &:before {
+    font-weight: bold;
+    content: "XXX TODO: ";
+  }
+}
+.jake {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "XXX Jake Says: ";
+  }
+}
+.brittany {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "XXX Brittany Says: ";
+  }
+}
+.stacey {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "XXX Stacey Says: ";
+  }
+}
+.lauren {
+  color: Orange;
+  &:before {
+    font-weight: bold;
+    content: "XXX Lauren Says: ";
+  }
+}
