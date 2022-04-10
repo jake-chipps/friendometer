@@ -1,9 +1,5 @@
 # TODO
 
-## User Experience
-- [ ] /_docs/index.md
-  - [ ] Create a big picture summary of the curriculum and the connections made.
-
 ## Curriculum Enhancement
 - [ ] 3-1
   - [ ] Add visual arts standards
@@ -14,6 +10,10 @@
 - [ ] 3-2
   - [ ] Add visual arts standards
   - [ ] Create example Ledger Art Projects
+
+## User Experience
+- [X] /_docs/index.md
+  - [X] Create a big picture summary of the curriculum and the connections made.
 
 ## Content Transfer
 When linking an image, use the code
