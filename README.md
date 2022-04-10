@@ -30,9 +30,40 @@ To create a todo in the text, add the following code:
 <span class="todo">The TODO text</span>
 ```
 
+## Adding an Image
+When inserting an image for lesson guides, use the code
+```
+![image description](../resources/images/FILENAME)
+```
+
+## Adding and Linking a Local Resource
+When adding a local resource, add the file to the folder:
+```
+/_docs/resources/
+```
+and name the file PART-LESSON_FILE-NAME.PDF (e.g. 2-1_intro-to-programming.pdf).
+
+When linking a local resource, use the code
+```
+[Resource Title](../resources/FILENAME)
+```
+
+## Editing Lessons
+Do not touch the yml code on lines 1-4.  
+On line 5, begin all lessons with Subject as header 2 (header 1 is inherited from the page title).
+
 # TODO
 
 ## Curriculum Enhancement
+For each lesson,
+- Copy and format content from MS Word
+- Save all resources as pdf and add to _docs/resources
+  - Use same file name as in SharePoint
+- Save lesson plan images in _docs/resources/images/
+  - File name should be PART-LESSON_DESCRIPTOR1-DESCRIPTOR2.EXTENSION (e.g. 2-2_cat-circuit.png)
+- Link the image in the .md file
+- Check all links
+
 - [ ] 3-1
   - [ ] Add visual arts standards
   - [ ] Create scaffold for creating symbolism in stories
@@ -48,26 +79,6 @@ To create a todo in the text, add the following code:
   - [X] Create a big picture summary of the curriculum and the connections made.
 
 ## Content Transfer
-When linking an image, use the code
-```
-![image description](../resources/images/FILENAME)
-```
-When linking a local resource, use the code
-```
-[Resource Title](../resources/FILENAME)
-```
-Do not touch the yml code on lines 1-4.  
-On line 5, begin all lessons with Subject as header 2 (header 1 is inherited from the page title).
-
-For each lesson,
-- Copy and format content from MS Word
-- Save all resources as pdf and add to _docs/resources
-  - Use same file name as in SharePoint
-- Save lesson plan images in _docs/resources/images/
-  - File name should be PART-LESSON_DESCRIPTOR1-DESCRIPTOR2.EXTENSION (e.g. 2-2_cat-circuit.png)
-- Link the image in the .md file
-- Check all links
-
 - [X] 1-1
 - [X] 1-2
 - [X] 2-1
