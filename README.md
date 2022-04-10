@@ -43,7 +43,7 @@ When adding a local resource, add the file to the folder:
 ```
 and name the file PART-LESSON_FILE-NAME.PDF (e.g. 2-1_intro-to-programming.pdf).
 
-When linking a local resource, use the code
+When linking a local resource, use the code:
 ```
 [Resource Title](../resources/FILENAME)
 ```
