@@ -25,34 +25,54 @@
   color: Red;
   &:before {
     font-weight: bold;
-    content: "XXX TODO: ";
+    content: "[XXX TODO: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
   }
 }
 .jake {
   color: Magenta;
   &:before {
     font-weight: bold;
-    content: "XXX Jake Says: ";
+    content: "[XXX Jake Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
   }
 }
 .brittany {
   color: Magenta;
   &:before {
     font-weight: bold;
-    content: "XXX Brittany Says: ";
+    content: "[XXX Brittany Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
   }
 }
 .stacey {
   color: Magenta;
   &:before {
     font-weight: bold;
-    content: "XXX Stacey Says: ";
+    content: "[XXX Stacey Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
   }
 }
 .lauren {
   color: Orange;
   &:before {
     font-weight: bold;
-    content: "XXX Lauren Says: ";
+    content: "[XXX Lauren Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
   }
 }
