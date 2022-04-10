@@ -31,7 +31,7 @@ To create a todo in the text, add the following code:
 ```
 
 ## Adding an Image
-When inserting an image for lesson guides, use the code
+When inserting an image for lesson guides, use the code:
 ```
 ![image description](../resources/images/FILENAME)
 ```
