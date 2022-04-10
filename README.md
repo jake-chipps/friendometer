@@ -1,7 +1,7 @@
 # Standards of Practice
 
 ## Member Comments
-To add a member comment:
+To add yourself as a member who can comment:
 - Go to [main.scss](./assets/css/main.scss)
 - At the bottom of the page, add the following code:
 ```
