@@ -52,6 +52,36 @@ When linking a local resource, use the code:
 Do not touch the yml code on lines 1-4.  
 On line 5, begin all lessons with Subject as header 2 (header 1 is inherited from the page title).
 
+All lessons have the following header structure:
+| Header | Header Name |
+| ------ | ----------- |
+| 2 | Subject |
+| 2 | Grade Level |
+| 2 | Established Goal(s)/Target(s) |
+| 2 | Montana Standards |
+| 2 | Evidence of Learning |
+| 2 | Prep |
+| 2 | Vocabulary |
+| 2 | Lesson Guide |
+| 3 | Activity 1 |
+| 3 | Activity 2 |
+| 3 | etc. |
+
+## Formatting Lessons
+Use the following formatting guidelines for content in lessons:
+| Content | Formatting |
+| ------- | ---------- |
+| Grade Level | 4/5 |
+| Standards | Bullet points, underline numerical code |
+| Evidence of Learning | Bullet points |
+| Prep | Bullet points |
+| Vocabulary | Markdown definitions |
+| Think-Pair-Share prompts | Markdown quoted text |
+| Vocabulary words | Bold |
+| Names of files | Italics |
+| Keywords for tech guides | Italics |
+| Names of MakeCode blocks | Italics |
+
 # TODO
 
 ## Curriculum Enhancement
