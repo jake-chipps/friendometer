@@ -87,15 +87,6 @@ Use the following formatting guidelines for content in lessons:
 # TODO
 
 ## Curriculum Enhancement
-For each lesson,
-- Copy and format content from MS Word
-- Save all resources as pdf and add to _docs/resources
-  - Use same file name as in SharePoint
-- Save lesson plan images in _docs/resources/images/
-  - File name should be PART-LESSON_DESCRIPTOR1-DESCRIPTOR2.EXTENSION (e.g. 2-2_cat-circuit.png)
-- Link the image in the .md file
-- Check all links
-
 - [ ] 3-1
   - [ ] Add visual arts standards
   - [ ] Create scaffold for creating symbolism in stories
@@ -111,6 +102,14 @@ For each lesson,
   - [X] Create a big picture summary of the curriculum and the connections made.
 
 ## Content Transfer
+For each lesson,
+- Copy and format content from MS Word
+- Save all resources as pdf and add to _docs/resources
+  - Use same file name as in SharePoint
+- Save lesson plan images in _docs/resources/images/
+  - File name should be PART-LESSON_DESCRIPTOR1-DESCRIPTOR2.EXTENSION (e.g. 2-2_cat-circuit.png)
+- Link the image in the .md file
+- Check all links
 - [X] 1-1
 - [X] 1-2
 - [X] 2-1
