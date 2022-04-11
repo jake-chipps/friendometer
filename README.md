@@ -23,13 +23,15 @@ To make a comment in line, write the following code:
 ```
 <span class="name">Your comment</span>
 ```
-
+It will look as follows:
+![comment example](./assets/img/comment-example.png)
 ## Using TODOs Inline
 To create a todo in the text, add the following code:
 ```
 <span class="todo">The TODO text</span>
 ```
-
+TODOs will appear as follows:
+![todo example](./assets/img/todo-example.png)
 ## Adding an Image
 When inserting an image for lesson guides, use the code:
 ```
