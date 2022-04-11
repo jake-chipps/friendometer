@@ -32,7 +32,13 @@ To create a todo in the text, add the following code:
 ```
 TODOs will appear as follows:
 ![todo example](./assets/img/todo-example.png)
-## Adding an Image
+## Adding and Inserting an Image
+When adding an image, add the file to the folder:
+```
+/_docs/resources/images/
+```
+and name the file PART-LESSON_IMAGE-NAME.EXTENSION (e.g. 2-1_cpx-diagram.png)
+
 When inserting an image for lesson guides, use the code:
 ```
 ![image description](../resources/images/FILENAME)
