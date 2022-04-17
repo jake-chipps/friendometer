@@ -4,78 +4,33 @@ permalink: /docs/1-2-t2/
 ---
 
 0:00
-my name is John Pepe and I'm from the
-0:01
-Blackfoot reservation and the kind of
-0:03
-heart I do is pictographic plans art and
-0:06
-bringing it to the forefront more
-0:08
-contemporary ledger art is a form of art
-0:13
-amongst plans and then tribes that it's
-0:15
-over a hundred years old and the period
-0:17
-that we're currently in is considered
-0:19
-the contemporary Najjar period every
-0:21
-piece Rd the designs that and collars
-0:23
-actually mean something and there's all
-0:25
-the story behind it like this piece
-0:27
-right here it's called Native Superman
-0:29
-and he's doing the Superman trick on his
-0:32
-bike it's kind of showing like oh we're
-0:34
-still public culture and how we're still
-0:37
-dealing with mainstream America and our
-0:39
-bridging two worlds together like the
-0:42
-Indian world and the new world that we
-0:44
-live in with the computers the bytes of
-0:46
-cell phones so I've been kind of
-0:48
-bridging that gap with my art being in
-0:50
-those two worlds together with a little
-0:52
-bit of humor just like storytelling and
+My name is John Pepion and I'm from the Blackfoot reservation and the kind of
+art I do is pictographic plains art and bringing it to the forefront, more
+contemporary.
+
+0:10
+Ledger art is a form of art amongst plains Tribes that is over a
+hundred years old. And the period that we're currently in is considered
+the contemporary ledger period. In every piece I do, the designs and the colors
+actually mean something and there's always a story behind it.
+
+0:26
+Like this piece - right here it's called Native Superman and he's doing the
+Superman trick on his bike. It's kind of showing like, "Oh we still have a
+culture and how we're still dealing with mainstream America and how we are
+bridging our two worlds together like the Indian world and the new world that we
+live in, with the computers, the bytes, the cell phones. So I've been kind of
+bridging that gap with my art being in those two worlds together with a little
+bit of humor just like storytelling.
+
 0:55
-to me it's sharing and preserving our
-0:57
-cultural history going into ceremony so
-1:01
-I sit there and observe I watch the
-1:03
-movement to everything to design some
-1:05
-center paying attention and all these
-1:06
-ideas are going in in my mind and that's
-1:08
-how I come up with the images I do when
+To me, it's sharing and preserving our cultural ancestry. Going to ceremony - so
+I sit there and observe, I watch the movement, everything, the designs, and I
+sit there, paying attention, and all these ideas are going in in my mind. And that's
+how I come up with the images I do.
+
 1:10
-I do my ledger I'm continuing to find
-1:12
-out who I am as a person who my family
-1:14
-is
-1:15
-especially being Blackfeet in Montana
-1:17
-and that's what I kind of appreciate but
-1:19
-I also like to tell the world but who we
-1:22
-are in our story from our perspective
+When I do my ledger art, I'm continuing to find out who I am as a person, who my
+family is, especially being Blackfeet in Montana. And that's what I kind of
+appreciate. But I also like to tell the world but who we are in our story, from
+our perspective.

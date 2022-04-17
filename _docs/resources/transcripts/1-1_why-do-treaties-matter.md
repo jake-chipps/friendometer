@@ -4,179 +4,44 @@ permalink: /docs/1-1-t2/
 ---
 
 0:07
-Native nations signed more than 365
-
-0:10
-treaties with the United States
-
-0:11
-government from 1777
-
-0:14
-to 1871. even though this happened
-
-0:17
-long ago treaties are living documents
-
-0:20
-that still matter for both native
-
-0:22
-and non-native people and nations today
+Native nations signed more than 365 treaties with the United States government
+from 1777 to 1871. Even though this happened long ago treaties are living documents
+that still matter for both Native and non-Native people and nations today.
 
 0:25
-a treaty is a formal agreement made
-
-0:27
-between two nations who recognize each
-
-0:29
-other's right to govern their own people
-
-0:32
-treaties affirm a nation's sovereignty
-
-0:36
-treaties are the supreme law of the land
+A treaty is a formal agreement made between two nations who recognize each
+other's right to govern their own people. Treaties affirm a nation's sovereignty.
+Treaties are the supreme law of the land.
 
 0:38
-the united states government's frequent
-
-0:40
-violations of its treaty obligations
-
-0:42
-do not change that why are treaties
-
-0:46
-important for native nations treaties
-
-0:49
-guarantee tribes ability to access
-
-0:51
-and manage their lands and resources
-
-0:54
-some treaties retain native people's
-
-0:56
-rights to hunt
-
-0:57
-fish and gather as they've done for
-
-0:59
-thousands of years
+The United States government's frequent violations of its treaty obligations
+do not change that treaties are important for Native Nations. Treaties
+guarantee Tribes' ability to access and manage their lands and resources.
+Some treaties retain Native People's rights to hunt, fish, and gather as they've
+done for thousands of years.
 
 1:03
-treaties also affirm tribal governments
-
-1:06
-rights to maintain
-
-1:07
-a nation-to-nation relationship with the
-
-1:10
-united states
-
-1:11
-they outline the united states ongoing
-
-1:13
-obligation to provide native people with
-
-1:15
-access to education and health care
+Treaties also affirm Tribal governments rights to maintain a nation-to-nation
+relationship with the United States. They outline the United States' ongoing
+obligation to provide Native People with access to education and health care.
 
 1:18
-ultimately treaties guarantee the
-
-1:20
-preservation of native lands
-
-1:22
-and lifeways for future generations
-
-1:27
-for many native nations the treaty
-
-1:29
-signing process was about survival
-
-1:33
-state governments along with the united
-
-1:35
-states government
-
-1:36
-carried out genocide ethnic cleansing
-
-1:39
-cultural erasure and forced removal
-
-1:41
-against native people
+Ultimately, treaties guarantee the preservation of Native lands and life ways for
+future generations. For many Native Nations, the treaty signing process was about
+survival. State governments along with the United States government carried out
+genocide ethnic cleansing, cultural erasure, and forced removal against Native People.
 
 1:43
-in an attempt to take their land and
-
-1:45
-other resources
-1:46
-often native leaders had no choice but
-1:49
-to sign treaties
-
-1:50
-in order to keep their people alive
-
-1:53
-they did everything in their power to
-
-1:55
-protect their nations
-
-1:57
-while facing insurmountable odds
+In an attempt to take their land and other resources, often Native leaders had no
+choice but to sign treaties. In order to keep their people alive, they did everything
+in their power to protect their Nations while facing insurmountable odds.
 
 2:05
-native nations are still here
-
-2:08
-native people continue to thrive as a
-
-2:10
-result of their ancestors bravery
-
-2:13
-treaty rights are not limited to native
-
-2:16
-people
-
-2:17
-treaties are the reason why non-native
-
-2:19
-people have access to land
-
-2:21
-and resources today treaties embody a
-
-2:25
-nation's integrity
+Native Nations are still here. Native People continue to thrive as a result of
+their ancestors' bravery. Treaty rights are not limited to Native People.
+Treaties are the reason why non-Native people have access to land and resources
+today. Treaties embody a Nation's integrity.
 
 2:26
-as citizens we must hold our governments
-
-2:29
-accountable to meeting
-
-2:30
-and acknowledging their treaty
-
-2:34
-obligations
+As citizens, we must hold our governments accountable to meeting and acknowledging
+their treaty obligations.

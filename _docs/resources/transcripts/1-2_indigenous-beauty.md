@@ -4,208 +4,52 @@ permalink: /docs/1-2-t3/
 ---
 
 0:00
-it was around 1850 the middle 1800s when
+It was around 1850, the middle 1800s, when the buffalo start being wiped out. So
+when the buffalo became scarce, instead of letting our form of pictograph writing,
+record keeping, die out, we transferred it to paper. And individual warriors would
+go to combat. If they lived they would come home and would draw what they did
+in combat.
 
-0:04
-the Buffalo start being wiped out so
-
-0:06
-when the Buffalo became scarce instead
-
-0:08
-of letting our form of pictograph riding
-
-0:09
-record keeping die out we transferred it
-
-0:12
-the paper and individual warriors are
-
-0:14
-going to combat if they lived they would
-
-0:17
-come home and would draw what they did
-
-0:18
-in combat while was Swift dog he was a
-
-0:21
-North Dakota tribe they could Standing
-
-0:24
-Rock Sioux and this instance here will
-
-0:26
-be probably attacking his crow enemy
-
-0:29
-capturing horses capturing people
-
-0:31
-captured weapons he wants to come up
-
-0:34
-close the crow shot two arrows at him
-
-0:36
-and missed him representing the Standing
-
-0:38
-Rock Sioux as power spiritual power to
-
-0:41
-deflect the arrows to go around him here
-
-0:43
-he's going to hit the crow with the bow
-
-0:46
-and arrow but the bow has a spearhead at
-
-0:48
-the end so he's going to take his life
+0:20
+Swift Dog, he was from a North Dakota Tribe with the Standing Rock Sioux. And in
+this instance here, he will probably be attacking his Crow enemy, capturing horses,
+capturing people, captured weapons. He wants to come up close. The crow shot two
+arrows at him, and missed him, representing the Standing Rock Sioux as power,
+spiritual power, to deflect the arrows, to go around him here. He's going to hit
+the Crow with the bow and arrow, but the bow has a spearhead at the end so he's
+going to take his life.
 
 0:50
-before the non-native people came we
-
-0:54
-didn't really kill each other as much in
-
-0:55
-warfare we would go and capture horses
-
-0:58
-from our enemy to show them that I have
-
-1:00
-spiritual power I can sneak right into
-
-1:02
-your home take your horses and take them
-
-1:04
-back to my camp and they're mine because
-
-1:06
-I counted coup on you representing you
-
-1:08
-touches his honor are his is a spiritual
-
-1:12
-power in his tribe you absorbed it it
+Before the non-Native people came, we didn't really kill each other as much in
+warfare. We would go and capture horses from our enemy to show them that I have
+spiritual power, I can sneak right into your home, take your horses, and take them
+back to my camp. And they're mine because I counted coup on you, representing you
+took his honor, his spiritual power in his Tribe, you absorbed it.
 
 1:15
-wasn't only about combat I'm even though
-
-1:17
-it was a combat lifestyle in a combat
-
-1:18
-form of society that it was also loving
-
-1:23
-and caring and caring for the elderly
-
-1:24
-and providing for everybody in the tribe
+It wasn't only about combat. I mean, even though it was a combat lifestyle, a
+combat form of society, it was also loving and caring. Caring for the elderly
+and providing for everybody in the Tribe.
 
 1:28
-I'm so proud to be a part of ledger art
-
-1:31
-and its growth and its existence into
-
-1:34
-the new millennium this particular piece
-
-1:37
-is Great Northern Railroad and up top
-
-1:39
-here represents Mountain designs
-
-1:41
-representing the glacier park area where
+I'm so proud to be a part of ledger art and its growth and its existence into
+the new millennium. This particular piece is Great Northern Railroad, and up top
+here represents mountain designs, representing the Glacier Park area where
+I live.
 
 1:44
-I live over here represents us not to
-
-1:46
-see the Sun God down below is the train
-
-1:49
-representing the Iron Horse the changing
-
-1:52
-of time but this is a Blackfeet
-
-1:54
-conductor he's driving so the black
-
-1:55
-Peter and control of their own destiny
-
-1:57
-now it's up to them what they're going
-
-1:59
-to become down below is a ledger a
-
-2:03
-Blackfeet cash disbursement journal and
-
-2:05
-on what is depicting is Blackfeet
-
-2:08
-members of the tribe so then you're
-
-2:10
-getting into connections to my personal
-
-2:12
-family in my tribe through this document
+Over here represents Natosi, the sun god. Down below is the train, representing
+the Iron Horse, the changing of time. But this is a Blackfeet conductor - he's
+driving. So the Blackfeet have control of their own destiny. Now it's up to them
+what they're going to become. Down below is a ledger, a Blackfeet cash disbursement
+journal and what it is depicting is Blackfeet members of the Tribe. So then you're
+getting into connections to my personal family in my Tribe through this document.
 
 2:15
-these shipping statements represent
-
-2:17
-movement of the tribe because we're
-
-2:19
-migration follow the Buffalo fall of the
-
-2:21
-herds then the map itself would
-
-2:24
-represent ownership of land or
-
-2:25
-protecting your homeland down below or
-
-2:28
-rolling hills symbols these are
-
-2:31
-puffballs that represents stars and a
-
-2:34
-Blackfoot's genesis we believe we're
-
-2:36
-interact with people from the stars so
-
-2:37
-we put them on our ear flaps of our
-
-2:39
-lodges and in our designs and morning
-
-2:42
-star was the main star being gave us our
-
-2:44
-Sun Dance healing ceremonies
+These shipping statements represent movement of the Tribe because we're
+migratory. Follow the Buffalo, follow the herds. Then the map itself would
+represent ownership of land or protecting your homeland. Down below are
+rolling hills symbols. These are puffballs that represents stars and the Blackfoot's
+genesis. We believe we interact with people from the stars so we put them on our
+ear flaps of our lodges and in our designs. And morning star was the main star-being,
+gave us our sun dance healing ceremonies

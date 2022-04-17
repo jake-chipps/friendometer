@@ -21,7 +21,6 @@ This is just one tradition of the ledger art. I actually have here an image of a
 3:03
 Right here, in 1801, there was actually an outbreak of smallpox. You can see the outline of that man with those red dots on him. Right next to him, that horse shoe, in 1802, was the first successful horse raid in the community. This one is actually coming from the Dakota community, from the Minnesota area.
 
-
 3:30
 And as we continue on around, it’s not just those horrid events like smallpox, measles, but there would also be celestial events recorded. Right over here, for example, we have the moon, the stars around the moon, and what’s really hard to see here are teeny tiny dots. Now here the red dots don’t represent smallpox (star don’t get smallpox). They represent falling stars. So this was actually a meteor shower, one of the largest of the century.
 
