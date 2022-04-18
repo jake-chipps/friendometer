@@ -97,8 +97,8 @@ Use the following formatting guidelines for content in lessons:
   - [ ] Add visual arts standards
   - [ ] Create scaffold for creating symbolism in stories
   - [ ] Need card stock dimensions
-  - [ ] Change footer on Brainstorm Posters
-  - [ ] Change footer on Brainstorm Scoot
+  - [X] Change footer on Brainstorm Posters
+  - [X] Change footer on Brainstorm Scoot
 - [ ] 3-2
   - [ ] Add visual arts standards
   - [ ] Create example Ledger Art Projects
