@@ -106,6 +106,7 @@ Use the following formatting guidelines for content in lessons:
 ## User Experience
 - [X] /_docs/index.md
   - [X] Create a big picture summary of the curriculum and the connections made.
+- [X] Add and link transcripts to all videos
 
 ## Content Transfer
 For each lesson,
