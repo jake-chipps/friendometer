@@ -1,9 +1,7 @@
 ---
-title: About
-permalink: /docs/about/
+title: Acknowledgements
+permalink: /about/
 ---
-
-# Storytelling Project
 
 ## Grant Title
 
