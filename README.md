@@ -95,7 +95,7 @@ Use the following formatting guidelines for content in lessons:
 ## Curriculum Enhancement
 - [ ] 3-1
   - [ ] Add visual arts standards
-  - [ ] Create scaffold for creating symbolism in stories
+  - [X] Create scaffold for creating symbolism in stories
   - [ ] Need card stock dimensions
   - [X] Change footer on Brainstorm Posters
   - [X] Change footer on Brainstorm Scoot
