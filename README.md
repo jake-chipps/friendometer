@@ -1,7 +1,7 @@
 # Standards of Practice
 
 ## Getting Started
-To edit the lessons in this curriculum, go to the [lessons folder](./_docs/lessons/). To preview changes, [go to the website](https://montanastorytelling.github.io/ledger-art/).
+To edit the lessons in this curriculum, go to the [lessons folder](./_docs/lessons/). To preview changes, [go to the website](https://montanastorytelling.github.io/ledger-art/) (changes may take up to a minute; you may need to refresh).
 
 ## Member Comments
 To add yourself as a member who can comment:
