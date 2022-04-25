@@ -1,5 +1,8 @@
 # Standards of Practice
 
+## Getting Started
+Until we have github pages enabled, to access the lessons in this curriculum, go to the [lessons folder](./_docs/lessons/). Since github pages is not enabled, you will see the Markdown view rather than the SCSS rendered styling - so no stylings will be present (including comments, todos, formatting).
+
 ## Member Comments
 To add yourself as a member who can comment:
 - Go to [main.scss](./assets/css/main.scss)
