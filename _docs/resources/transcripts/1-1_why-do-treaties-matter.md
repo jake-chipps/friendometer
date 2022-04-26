@@ -1,6 +1,6 @@
 ---
 title: Why Do Treaties Matter - Transcript
-permalink: /docs/1-1-t2/
+permalink: /docs/1-1_why-treaties-matter/
 ---
 
 0:07
