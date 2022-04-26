@@ -88,7 +88,7 @@ Use the following formatting guidelines for content in lessons:
 | Prep | Bullet points |
 | Vocabulary | Markdown definitions |
 | Think-Pair-Share prompts | Markdown quoted text |
-| Vocabulary words | Bold |
+| Vocabulary words | 2 column table; term in bold, definition plain text |
 | Names of files | Italics |
 | Keywords for tech guides | Italics |
 | Names of MakeCode blocks | Italics |
