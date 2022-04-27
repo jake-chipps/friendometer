@@ -76,3 +76,14 @@
     content: "]";
   }
 }
+.eli {
+  color: Orange;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Eli Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
