@@ -7,13 +7,14 @@ redirect_from: /docs/index.html
 ## An Overview of the Ledger Art Curriculum
 
 This curriculum introduces students to programming physical computational
-artifacts through an exploration of past and contemporary ledger art by Tribal
+artifacts through an exploration of past and contemporary ledger art by tribal
 members of Montana.
 
 ### Ledger Art
 Students are introduced to the formation of reservations through treaties
-between the US Government and Tribal Nations. Ledger art is explored as an art
-form that originated on the reservations by using available materials, and students
+between the US Government and tribal nations. Ledger art is an art
+form that originated on the reservations by using available materials (the ledgers).
+Students
 analyze contemporary Montana ledger art through symbolism. Students
 begin to consider stories from their lives that they want to represent in the style
 of ledger art and consider the symbolic representations they will use to convey
@@ -45,7 +46,7 @@ code to program the Neopixels on the microcontroller on their ledger art project
 to display a message in binary representation as a way to encrypt a private message
 as another layer on their already functioning ledger art project. Students are
 introduced to nonverbal communication methods such as sign language used and nearly
-lost by Montana Tribes.
+lost by Montana tribes.
 
 ### Storytelling
 Students revisit the formation of reservations by analyzing four treaties, and
@@ -55,6 +56,5 @@ to human-computer interaction and discuss the ways humans interact with technolo
 to tell their stories. Students are introduced to sensors, collect data using
 the sound sensor on the microcontroller, and discuss the diversity of data of
 multiple users. Students discuss the need for inclusive design when making new
-technologies. Students program the sound sensor on their ledger art project to
-enable their light patterns when they speak. Students tell their stories to their
+technologies. Students tell their stories to their
 peers, supplemented by the symbolic narratives of their ledger art projects.
