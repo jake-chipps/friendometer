@@ -97,13 +97,13 @@ Use the following formatting guidelines for content in lessons:
 
 ## Curriculum Enhancement
 - [ ] 3-1
-  - [ ] Add visual arts standards
+  - [X] Add visual arts standards
   - [X] Create scaffold for creating symbolism in stories
   - [ ] Need card stock dimensions
   - [X] Change footer on Brainstorm Posters
   - [X] Change footer on Brainstorm Scoot
 - [ ] 3-2
-  - [ ] Add visual arts standards
+  - [X] Add visual arts standards
   - [ ] Create example Ledger Art Projects
 
 ## User Experience
