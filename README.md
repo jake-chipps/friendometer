@@ -124,8 +124,8 @@ For each lesson,
 - [X] 1-2
 - [X] 2-1
 - [X] 2-2
-- [ ] 3-1 (needs enhancement due to change from narrative to symbols and visual arts standards)
-- [ ] 3-2 (needs examples of ledger art projects and visual arts standards)
+- [ ] 3-1 (needs card stock dimensions)
+- [ ] 3-2 (needs examples of ledger art projects)
 - [X] 3-3
 - [X] 4-1
 - [X] 4-2
