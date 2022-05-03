@@ -65,6 +65,17 @@
     content: "]";
   }
 }
+.suzie {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Suzie Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
 .lauren {
   color: Orange;
   &:before {
