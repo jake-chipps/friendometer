@@ -6,10 +6,10 @@ For information on member comments, TODOs, and all standards of practice, visit 
 # TODO
 
 ## Curriculum Enhancement
-- [ ] 3-1
+- [X] 3-1
   - [X] Add visual arts standards
   - [X] Create scaffold for creating symbolism in stories
-  - [ ] Need card stock dimensions
+  - [X] Need card stock dimensions
   - [X] Change footer on Brainstorm Posters
   - [X] Change footer on Brainstorm Scoot
 - [ ] 3-2
@@ -34,7 +34,7 @@ For each lesson,
 - [X] 1-2
 - [X] 2-1
 - [X] 2-2
-- [ ] 3-1 (needs card stock dimensions)
+- [X] 3-1
 - [ ] 3-2 (needs examples of ledger art projects)
 - [X] 3-3
 - [X] 4-1
