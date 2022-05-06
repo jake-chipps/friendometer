@@ -17,6 +17,7 @@ For information on member comments, TODOs, and all standards of practice, visit 
   - [ ] Create example Ledger Art Projects
 
 ## User Experience
+- [ ] Right-align left column of all tables
 - [X] /_docs/index.md
   - [X] Create a big picture summary of the curriculum and the connections made.
 - [X] Add and link transcripts to all videos
