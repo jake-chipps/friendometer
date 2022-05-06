@@ -10,7 +10,7 @@ This curriculum introduces students to programming physical computational
 artifacts through an exploration of past and contemporary ledger art by tribal
 members of Montana.
 
-### Ledger Art
+### Section 1: Ledger Art
 Students are introduced to the formation of reservations through treaties
 between the US Government and tribal nations. Ledger art is an art
 form that originated on the reservations by using available materials (the ledgers).
@@ -20,20 +20,20 @@ begin to consider stories from their lives that they want to represent in the st
 of ledger art and consider the symbolic representations they will use to convey
 a visual narrative.
 
-### Circuits
+### Section 2: Circuits
 Students are introduced to simple, parallel, and series circuits in their quest
 to add LEDs and computational functionality to their ledger art projects. Science
 concepts such as current, polarity, voltage, and conductors are explored. Students
 design a circuit on their ledger art projects using a microcontroller and LEDs
 to emphasize key symbolic representations of their visual narratives.
 
-### Programming
+### Section 3: Programming
 Students use pair programming techniques to code the LEDs on their ledger art
 projects to emphasize key elements of their visual narratives. Students are
 introduced to algorithms, functions and debugging. Students use their ledger art
 inspired projects to share their stories.
 
-### Encryption
+### Section 4: Encryption
 Students are introduced to communication protocols and reflect on their ledger
 art projects as a form of communication. Students create a binary message sending
 device using any materials in their area to develop a method of communicating
@@ -48,7 +48,7 @@ as another layer on their already functioning ledger art project. Students are
 introduced to nonverbal communication methods such as sign language used and nearly
 lost by Montana tribes.
 
-### Storytelling
+### Section 5: Storytelling
 Students revisit the formation of reservations by analyzing four treaties, and
 in dong so, are introduced to termination, relocation, and forced assimilation.
 Students discuss the importance and power of telling stories. Students are introduced
