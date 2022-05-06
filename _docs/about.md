@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-permalink: /about/
+permalink: /docs/about/
 ---
 
 ## Grant Title
