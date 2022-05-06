@@ -17,8 +17,8 @@ For information on member comments, TODOs, and all standards of practice, visit 
   - [ ] Create example Ledger Art Projects
 
 ## User Experience
-- [ ] Right-align left column of all tables
-- [ ] Remove About from upper nav, insert About in curriculum side nav
+- [X] Right-align left column of all tables
+- [X] Remove About from upper nav, insert About in curriculum side nav
 - [X] /_docs/index.md
   - [X] Create a big picture summary of the curriculum and the connections made.
 - [X] Add and link transcripts to all videos
