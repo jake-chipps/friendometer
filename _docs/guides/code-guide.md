@@ -20,7 +20,7 @@ permalink: /docs/code/
 ## Understanding Blocks <a name="blocks"></a>
 In [MakeCode](https://makecode.adafruit.com/), Blocks snap into each other to define the program that your Adafruit Circuit Playground Express will run. Blocks can be an event block (press buttons, shake the CPX, make a loud noise, etc.) or need to be snapped into an event to run. Blocks not snapped will appear translucent gray, and will not run.
 
-MakeCode can handle multiple groupings of blocks. For example, a program with code inside an *on start* block as well as a *forever* block will both run. MakeCode will run the *on start* block when the program initiates and then repeat the code in the *forever* block as if in the background immediately following the running of the *on start* code.
+MakeCode can handle multiple groupings of blocks. You do not need to put all of your code in a single group of blocks. 
 
 There are multiple types of blocks in MakeCode, and the relevant blocks required for this curriculum will be covered in this guide. For more information about specific blocks beyond the scope of this curriculum, [MakeCode offers a guide](https://makecode.adafruit.com/blocks) for all of the blocks within the programming interface.
 
@@ -68,7 +68,7 @@ When we need to store information (like the current value of a sensor), we need 
 
 For example, if I want to set a variable called *age* to 11, I would write
 ```
-set age to 13
+set age to 11
 ```
 and if I want to check if the person can drive yet, I would write
 ```
