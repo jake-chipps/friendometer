@@ -4,20 +4,20 @@ permalink: /docs/code/
 ---
 
 ## Table of Contents
-- [Understanding Blocks](#blocks)
+- [1 Understanding Blocks](#blocks)
   - [Events](#events)
   - [Loops](#loops)
   - [Logic](#logic)
   - [Variables](#variables)
-- [Programming Output Pins (LEDs)](#programpins)
-- [Writing and Using Functions](#Functions)
-- [Programming the NeoPixels](#programneo)
-- [Programming Input Pins (Sensors)](#programsensors)
+- [2 Programming Output Pins (LEDs)](#programpins)
+- [3 Writing and Using Functions](#Functions)
+- [4 Programming the NeoPixels](#programneo)
+- [5 Programming Input Pins (Sensors)](#programsensors)
   - [Getting the Sensor Value](#getsensor)
   - [Writing to the Console](#console)
   - [Running Code Based on the Sensor Value](#usesensor)
 
-## Understanding Blocks <a name="blocks"></a>
+## 1 Understanding Blocks <a name="blocks"></a>
 In [MakeCode](https://makecode.adafruit.com/), Blocks snap into each other to define the program that your Adafruit Circuit Playground Express will run. Blocks can be an event block (press buttons, shake the CPX, make a loud noise, etc.) or need to be snapped into an event to run. Blocks not snapped will appear translucent gray, and will not run.
 
 MakeCode can handle multiple groupings of blocks. You do not need to put all of your code in a single group of blocks.
@@ -85,7 +85,7 @@ set ON to GREEN
 set OFF to RED
 ```
 
-## Programming Output Pins (LEDs)<a name="programpins"></a>
+## 2 Programming Output Pins (LEDs)<a name="programpins"></a>
 The LEDs on the Ledger Art Project are connected (by copper tape and alligator clips) to output pins on the Circuit Playground Express. As described in the [Technical Guide](../tech/), the pins that can be used to connect to LEDs are: A0, A1, A2, A3, A4, A5, A6, and A7.
 
 For example, if we have connected an LED to pin A7, then we need to be able to send messages to the pin to allow the flow of current to turn on the LED or block the current and turn the LED off. We do this using a block called *digital write*. The word **digital** means that the value we send to the pin is a binary value; that is, it has one of two values (ON/OFF, TRUE/FALSE, LOW/HIGH). Either the current will flow or it will be blocked, there is no middle ground.
@@ -103,7 +103,7 @@ and if I want the LED to be ON, I would write
 digital write pin A7 to HIGH
 ```
 
-## Writing and Using Functions <a name="functions"></a>
+## 3 Writing and Using Functions <a name="functions"></a>
 In [3-2 (Design the Ledger Art Project)](../3-2/) and [3-3 (Program the Ledger Art Project)](../3-3/) students will design and program light patterns for their Ledger Art Projects, respectively. A simple light pattern for a single LED might entail the sequence
 ```
 Turn LED on
@@ -134,13 +134,13 @@ forever:
   call Blink
 ```
 
-## Programming the NeoPixels <a name="programneo"></a>
+## 4 Programming the NeoPixels <a name="programneo"></a>
 The NeoPixels are the ten LEDs circling the Circuit Playground Express. NeoPixels differ from the individual LEDs in that they can change color and brightness. For this reason, before setting the state of each LED, we need to set their color and brightness. We can use a predefined color or create our own using the *red green blue* block.
 
 |   Block   | What It Does    |
 | ---: | --- |
 | *set all pixels to [COLOR]* | Sets the color of all NeoPixels to the specified color. |
-| *set brightness to [NUMBER]*   | Sets the brightness of all NeoPixels to the specified brightness . NUMBER is an integer from 0 to 255.  |
+| *set brightness to [NUMBER]*   | Sets the brightness of all NeoPixels to the specified brightness. NUMBER is an integer from 0 to 255.  |
 | *red [NUMBER] green [NUMBER] blue [NUMBER]* | Creates a color with the amount of red, green, and blue specified. NUMBER is an integer from 0 to 255.  |
 
 When we set the color and brightness of the NeoPixels, we want to do this right when the code starts. For this reason, we need the *on start* block. Here is what it might look like to initialize the NeoPixels to the color cyan and brightness 255 (full brightness)
@@ -173,7 +173,7 @@ forever:
   set pixel color at 9 to BLUE
 ```
 
-## Programming Input Pins (Sensors) <a name="programsensors"></a>
+## 5 Programming Input Pins (Sensors) <a name="programsensors"></a>
 In [5-2 (Human-Computer Interaction)](../5-2/), students use the sound sensor (microphone) in order to activate the light patterns on their Ledger Art Projects by telling their stories. To do this, we need to:
 - access the current sound level read by the microphone on the Circuit Playground Express,
 - output the current value of the sound level so that we, the programmer, know what is happening, and then

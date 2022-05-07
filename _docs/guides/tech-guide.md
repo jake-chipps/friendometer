@@ -4,7 +4,7 @@ permalink: /docs/tech/
 ---
 ## Table of Contents
 - [MakeCode](#makecode)
-  - [Creating an Account](#account)
+  - [Saving and Sharing Projects](#shareproject)
   - [Connecting the Circuit Playground Express to MakeCode](#cpx-makecode)
   - [Managing Projects](#projects)
 - [Circuits](#circuits)
@@ -23,8 +23,12 @@ in MakeCode and can save their projects. Projects can be duplicated, edited,
 and shared with others. After coding a project, students can download their code
 from MakeCode into the Circuit Playground Express to run on their projects.
 
-### Creating an Account <a name="account"></a>
-<span class="todo">Write instructions to create an account</span>
+### Saving and Sharing Projects <a name="shareproject"></a>
+There are no accounts in MakeCode, which means that saved projects are not attached to a student's individual account. But this does not mean that students cannot save and share their projects.
+
+When inside of a project on MakeCode, there is a button in the top left corner of the browser window called "Share." Clicking "Share" will prompt a window that asks the user to name and publish their project. In order to save and share a project for later, a project must first be named and published. Any modifications made to the project after it is published will NOT be reflected in the shared link so if a student makes edits to a project after they have named and shared it, the project must be named and published again and they will get a different link to a new project. This allows us to create versions of projects (if you want students to learn about version control).
+
+
 
 ### Connecting the Circuit PlayGround Express to MakeCode <a name="cpx-makecode"></a>
 <span class="todo">Write instructions to setup the CPX</span>
