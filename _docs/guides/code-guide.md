@@ -51,11 +51,11 @@ There are two loop blocks this curriculum uses: the *forever* block and the *pau
 ### Logic <a name="logic"></a>
 Logic blocks control the flow of your program. While groups of blocks normally run sequentially from top to bottom, you can redirect the code that runs next by checking if a condition is true.
 
-There are two logic blocks this curriculum uses: the *if<BOOLEAN>{CODE} else{CODE}* block and the *boolean* block.
+There are two logic blocks this curriculum uses: the *if(BOOLEAN)...else...* block and the *boolean* block.
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *if <BOOLEAN> {CODE} else {CODE}* | Run code depending on whether a boolean condition is true or false. The code inside the if block only runs when the condition block is true. You can compare variables to values or variables to variables, for a true condition. If you want some other code to run when the opposite condition is true, you put it in an additional block area called else.  |
+| *if(BOOLEAN)...else...* | Run code depending on whether a boolean condition is true or false. The code inside the if block only runs when the condition block is true. You can compare variables to values or variables to variables, for a true condition. If you want some other code to run when the opposite condition is true, you put it in an additional block area called else.  |
 | *boolean*  | A Boolean has one of two possible values: true or false. Boolean (logical) operators (and, or, not) take Boolean inputs and make another Boolean value. These blocks represent the true and false Boolean values, which can be dragged any place a Boolean value is expected. |
 
 ### Variables <a name="variables"></a>
