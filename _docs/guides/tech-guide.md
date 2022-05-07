@@ -21,8 +21,7 @@ permalink: /docs/tech/
 that uses drag-and-drop blocks to scaffold learning. Students will create accounts
 in MakeCode and can save their projects. Projects can be duplicated, edited,
 and shared with others. After coding a project, students can download their code
-from MakeCode into the Circuit Playground Express to make light patterns with
-LEDs and use sensors to make decisions.
+from MakeCode into the Circuit Playground Express to run on their projects.
 
 ### Creating an Account <a name="account"></a>
 <span class="todo">Write instructions to create an account</span>

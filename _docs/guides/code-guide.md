@@ -26,7 +26,7 @@ There are multiple types of blocks in MakeCode, and the relevant blocks required
 
 | Type of Block | What It Does |
 | ---: | --- |
-| **events**  | Initiates groups of blocks to run. All runnable code is wrapped in event blocks.  |
+| **events**  | Initiates groups of blocks to run. All runnable code is wrapped in either event blocks, functions, or the forever loop.  |
 | **loops**   | Runs the code inside repeatedly some number of times.  |
 | **logic**   | Runs code based on whether a condition is true or false. |
 | **variable**  | Stores information to be retrieved and used later in a program. |
@@ -38,7 +38,7 @@ The only event block this curriculum uses is the *on start* block. *on start* is
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *on start* | A special event that runs when the program starts, before any other event. Use this event to initialize your program.  |
+| *on start* | A special event that runs when the program starts, before any other event. Use this event to initialize your program. This event does not need to be used in every program - we tend to use it if we have variables that need to be initialized. |
 
 ### Loops <a name="loops"></a>
 There are two loop blocks this curriculum uses: the *forever* block and the *pause* block.
@@ -55,11 +55,13 @@ There are two logic blocks this curriculum uses: the *if(BOOLEAN)...else...* blo
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *if(BOOLEAN)...else...* | Run code depending on whether a boolean condition is true or false. The code inside the if block only runs when the condition block is true. You can compare variables to values or variables to variables, for a true condition. If you want some other code to run when the opposite condition is true, you put it in an additional block area called else.  |
-| *boolean*  | A Boolean has one of two possible values: true or false. Boolean (logical) operators (and, or, not) take Boolean inputs and make another Boolean value. These blocks represent the true and false Boolean values, which can be dragged any place a Boolean value is expected. |
+| *if(BOOLEAN)...else...* | Run code depending on whether a boolean condition is true or false. The code inside the if block only runs when the condition block is true. To create the Boolean condition, you can compare variables to values or variables to variables. If you want some other code to run when the opposite condition is true, you put it in an additional block area called else and tell the code what to do else the condition is not true.  |
+| *boolean*  | A Boolean has one of two possible values: true or false. Boolean (logical) operators (and, or, not) take Boolean inputs and make another Boolean value. This block represents Boolean values (true/false), which can be dragged any place a Boolean value is expected (such as an *if(BOOLEAN)...else...* block). |
 
 ### Variables <a name="variables"></a>
-When we need to store information (like the current value of a sensor), we need to store that value within a variable, which is physically allocated on the memory of the Circuit Playground Express when the code runs. In MakeCode, to store a value inside of a variable, we need to create the variable in the interface and then use the *set* block in the variables menu.
+When we need to store information (like the current value of a sensor), we need to store that value within a variable, which is physically allocated on the memory of the Circuit Playground Express when the code runs. Data stored in a computer or microcontroller (like the CPX) has an address in the memory. When a computer accesses a variable, it checks the memory address where the variable is stored. Memory addresses are not easy for humans to remember. So we can point to a particular memory address by naming a variable. Then, instead of knowing the address of where the data is stored, we can just call the name of the variable. The computer will link the variable name and the address for us.
+
+In MakeCode, to store a value inside of a variable, we need to create the variable in the interface and then use the *set* block in the variables menu.
 
 |   Block   | What It Does    |
 | ---: | --- |
@@ -90,7 +92,7 @@ For example, if we have connected an LED to pin A7, then we need to be able to s
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *digital write* | Write a value of false or true to a digital pin. Digital pins write one of two values: false or true. Often the false means something connected to the pin is turned off or its status is false. In a similar way, true means something connected to the pin is on or has a status of true. The value from the last digital write stays at the pin until another digital write happens. |
+| *digital write pin [PIN] to {LOW/HIGH}* | Write a value of false or true to a pin. In the case of an LED connected to the pin, false means that the LED connected to the pin is turned off. In a similar way, true means something the connected LED is on. In PIN, we specify which pin we want do write to (e.g. A7). LOW means off (false) and HIGH means on (true). The value from the last digital write stays at the pin until another digital write happens. |
 
 For example, if I want the LED connected to pin A7 to be OFF, then I would write
 ```
@@ -138,7 +140,7 @@ The NeoPixels are the ten LEDs circling the Circuit Playground Express. NeoPixel
 |   Block   | What It Does    |
 | ---: | --- |
 | *set all pixels to [COLOR]* | Sets the color of all NeoPixels to the specified color. |
-| *set brightness to [NUMBER]*   | Sets the brightness of all NeoPixels to the specified brightness (0-255).  |
+| *set brightness to [NUMBER]*   | Sets the brightness of all NeoPixels to the specified brightness . NUMBER is an integer from 0 to 255.  |
 | *red [NUMBER] green [NUMBER] blue [NUMBER]* | Creates a color with the amount of red, green, and blue specified. NUMBER is an integer from 0 to 255.  |
 
 When we set the color and brightness of the NeoPixels, we want to do this right when the code starts. For this reason, we need the *on start* block. Here is what it might look like to initialize the NeoPixels to the color cyan and brightness 255 (full brightness)
@@ -175,14 +177,16 @@ forever:
 In [5-2 (Human-Computer Interaction)](../5-2/), students use the sound sensor (microphone) in order to activate the light patterns on their Ledger Art Projects by telling their stories. To do this, we need to:
 - access the current sound level read by the microphone on the Circuit Playground Express,
 - output the current value of the sound level so that we, the programmer, know what is happening, and then
-- run some code based on the value of the sound sensor. Each of these three sequences will be explored here.
+- run some code based on the value of the sound sensor.
+
+Each of these three sequences will be explored here.
 
 ### Getting the Sensor Value <a name="getsensor"></a>
 MakeCode has made it very easy to access the sound level of the CPX's microphone. In input, there is a block called *sound level* which stores the current sound level of the microphone. The value of this variable is constantly changing and represents the current value of sound as computed by the microphone.
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *sound level* | Stores the level of sound "heard" by the microphone. Represents a number between 0 (quiet) and 255 (loud) which tells how loud the sounds are that the microphone hears. The value stored is always changing. |
+| *sound level* | Stores the level of sound "heard" by the microphone. Represents a number between 0 (quiet) and 255 (loud). The value stored is always changing. |
 
 ### Writing to the Console <a name="console"></a>
 Now that we have the amount of sound heard by the microphone, we can print it out so that we as humans can see what it is. In the console menu, there is a block called *console log*. The *sound level* block can be dragged inside the white space of the *console log* block to print out the current value of the variable in the console. To access the console in MakeCode, simply click "Show Console Simulator" directly below the CPX simulator on the left side of the screen. The code should look as follows:
