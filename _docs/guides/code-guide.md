@@ -15,7 +15,7 @@ permalink: /docs/code/
 - [Programming Input Pins (Sensors)](#programsensors)
   - [Getting the Sensor Value](#getsensor)
   - [Writing to the Console](#console)
-  - [Running Code Based on Sensor Value](#usesensor)
+  - [Running Code Based on the Sensor Value](#usesensor)
 
 ## Understanding Blocks <a name="blocks"></a>
 In [MakeCode](https://makecode.adafruit.com/), Blocks snap into each other to define the program that your Adafruit Circuit Playground Express will run. Blocks can be an event block (press buttons, shake the CPX, make a loud noise, etc.) or need to be snapped into an event to run. Blocks not snapped will appear translucent gray, and will not run.
@@ -141,7 +141,7 @@ The NeoPixels are the ten LEDs circling the Circuit Playground Express. NeoPixel
 | *set brightness to [NUMBER]*   | Sets the brightness of all NeoPixels to the specified brightness (0-255).  |
 | *red [NUMBER] green [NUMBER] blue [NUMBER]* | Creates a color with the amount of red, green, and blue specified. NUMBER is an integer from 0 to 255.  |
 
-When we set the color and brightness of the NeoPixels, we want to do this right when the code starts. For this reason, we need the *on start* block. Here is what it might look like to initialize the NeoPixels to the color red and brightness 255 (full brightness)
+When we set the color and brightness of the NeoPixels, we want to do this right when the code starts. For this reason, we need the *on start* block. Here is what it might look like to initialize the NeoPixels to the color cyan and brightness 255 (full brightness)
 ```
 on start:
   set cyan to red 0 green 255 blue 255
@@ -172,7 +172,10 @@ forever:
 ```
 
 ## Programming Input Pins (Sensors) <a name="programsensors"></a>
-In [5-2 (Human-Computer Interaction)](../5-2/), students use the sound sensor (microphone) in order to activate the light patterns on their Ledger Art Projects by telling their stories. To do this, we need to access the current sound level read by the microphone on the Circuit Playground Express, output the current value of the sound level so that we, the programmer, know what is happening, and then run some code based on the value of the sound sensor. Each of these three sequences will be explored here.
+In [5-2 (Human-Computer Interaction)](../5-2/), students use the sound sensor (microphone) in order to activate the light patterns on their Ledger Art Projects by telling their stories. To do this, we need to:
+- access the current sound level read by the microphone on the Circuit Playground Express,
+- output the current value of the sound level so that we, the programmer, know what is happening, and then
+- run some code based on the value of the sound sensor. Each of these three sequences will be explored here.
 
 ### Getting the Sensor Value <a name="getsensor"></a>
 MakeCode has made it very easy to access the sound level of the CPX's microphone. In input, there is a block called *sound level* which stores the current sound level of the microphone. The value of this variable is constantly changing and represents the current value of sound as computed by the microphone.
