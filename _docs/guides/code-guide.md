@@ -20,7 +20,7 @@ permalink: /docs/code/
 ## Understanding Blocks <a name="blocks"></a>
 In [MakeCode](https://makecode.adafruit.com/), Blocks snap into each other to define the program that your Adafruit Circuit Playground Express will run. Blocks can be an event block (press buttons, shake the CPX, make a loud noise, etc.) or need to be snapped into an event to run. Blocks not snapped will appear translucent gray, and will not run.
 
-MakeCode can handle multiple groupings of blocks. You do not need to put all of your code in a single group of blocks. 
+MakeCode can handle multiple groupings of blocks. You do not need to put all of your code in a single group of blocks.
 
 There are multiple types of blocks in MakeCode, and the relevant blocks required for this curriculum will be covered in this guide. For more information about specific blocks beyond the scope of this curriculum, [MakeCode offers a guide](https://makecode.adafruit.com/blocks) for all of the blocks within the programming interface.
 
@@ -46,16 +46,16 @@ There are two loop blocks this curriculum uses: the *forever* block and the *pau
 |   Block   | What It Does    |
 | ---: | --- |
 | *forever* | The code you have in a forever loop will run and keep repeating itself the whole time your program is active. Code in other parts of your program won’t stop while your forever loop is running. This includes other forever loops.  |
-| *pause*  | Pause a part of the program for some number of milliseconds. When code in a block comes to a pause, it will wait the amount of time you tell it to.  |
+| *pause [NUMBER] ms*  | Pause a part of the program for some number of milliseconds. When code in a block comes to a pause, it will wait the amount of time you tell it to.  |
 
 ### Logic <a name="logic"></a>
 Logic blocks control the flow of your program. While groups of blocks normally run sequentially from top to bottom, you can redirect the code that runs next by checking if a condition is true.
 
-There are two logic blocks this curriculum uses: the *if...else...* block and the *boolean* block.
+There are two logic blocks this curriculum uses: the *if<BOOLEAN>{CODE} else{CODE}* block and the *boolean* block.
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *if...else...* | Run code depending on whether a boolean condition is true or false. The code inside the if block only runs when the condition block is true. You can compare variables to values or variables to variables, for a true condition. If you want some other code to run when the opposite condition is true, you put it in an additional block area called else.  |
+| *if <BOOLEAN> {CODE} else {CODE}* | Run code depending on whether a boolean condition is true or false. The code inside the if block only runs when the condition block is true. You can compare variables to values or variables to variables, for a true condition. If you want some other code to run when the opposite condition is true, you put it in an additional block area called else.  |
 | *boolean*  | A Boolean has one of two possible values: true or false. Boolean (logical) operators (and, or, not) take Boolean inputs and make another Boolean value. These blocks represent the true and false Boolean values, which can be dragged any place a Boolean value is expected. |
 
 ### Variables <a name="variables"></a>
@@ -63,8 +63,8 @@ When we need to store information (like the current value of a sensor), we need 
 
 |   Block   | What It Does    |
 | ---: | --- |
-| *set* | Assign (set) a variable’s value. |
-| *variable name* | Access (get) a variable's value. When we want to check the current state of a variable, we need to get it first using the variable's name. |
+| *set [NAME] to [VALUE]* | Assign (set) a variable’s value. |
+| *[NAME]* | Access (get) a variable's value. When we want to check the current state of a variable, we need to get it first using the variable's name. |
 
 For example, if I want to set a variable called *age* to 11, I would write
 ```
@@ -109,11 +109,11 @@ Pause 1 second
 Turn LED off
 Pause 1 second
 ```
-This sequence requires four lines of code that we can define inside of a function. A function is a block of code where we can snap multiple blocks inside. For example, I might call the function above "blink." Then, when I call the blink function, those four lines of code will run. Blink becomes a substitute phrase for the entire sequence of code.
+This sequence requires four lines of code that we can define inside of a function. A function is a block of code where we can snap multiple blocks inside. For example, I might call the function above "Blink." Then, when I call the Blink function, those four lines of code will run. Blink becomes a substitute phrase for the entire sequence of code.
 
-To create a function, go to the functions menu, and click "make a function." Name the function using a descriptive name for whatever the code is going to do. The **function** block with your personalized name will appear in the workspace. Drag the blocks you need to complete that function inside.
+To create a function, go to the functions menu, and click "make a function." Name the function using a descriptive name for whatever the code is going to do. The *function* block with your personalized name will appear in the workspace. Drag the blocks you need to complete that function inside.
 
-Once your function is defined and has code, we need to call the function. To call your function, go back into the functions menu and drag the **call** block wherever you want the function to run.
+Once your function is defined and has code, we need to call the function. To call your function, go back into the functions menu and drag the *call* block wherever you want the function to run.
 
 |   Block   | What It Does    |
 | ---: | --- |
