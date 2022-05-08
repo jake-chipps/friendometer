@@ -58,6 +58,10 @@ I cut out a large piece of newspaper and glued it to card stock measuring 8.5" x
 
 ![newspaper on cardstock](../guides/guide-resources/lap-newspaper.png)
 
+I added the symbols that I planned out on top of the newspaper.
+
+![add symbols to newspaper and cardstock](../guides/guide-resources/lap-add-design.png)
+
 
 
 ### Visual Narrative <a name="visualnarrative"></a>
