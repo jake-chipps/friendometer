@@ -9,6 +9,7 @@ permalink: /docs/ledgerguide/
 - [3 Design](#design)
   - [Visual Narrative](#visualnarrative)
   - [Circuit Diagram](#circuitdiagram)
+  - [Code](#designcode)
 - [4 Program](#program)
 
 ## 1 Overview <a name="overview"></a>
@@ -92,9 +93,27 @@ polarity using a + and - on the drawing.
 
 ![circuit diagram completed](../guides/guide-resources/lap-circuit-diagram-complete.png)
 
+### Code <a name="designcode"></a>
+Before programming, I [storyboarded my light pattern](../guides-guide-resources/lap-3-2_storyboard-ledger.pdf)
+using the student handout from [3-2 (Design the Ledger Art Project)](../3-2/).
+In order to tell the story of how this was a sequential process, starting with
+the environment, and ending with my feelings about that environment, I wanted my
+LEDs to tell the story of how the three symbols are intertwined and caused by each
+other.
+```
+tent on, maze and earth off.
+pause 1 second.
+tent and maze on, earth off.
+pause 1 second.
+second. tent, maze, and earth on.
+pause 1 second.
+tent, maze, and earth flash intermittently three times with a .3 second pause between flashes.
+repeat.
+```
+
 ## 4 Program <a name="program"></a>
-Before programming, I wanted to be able to test my code. So I connected each of
-the positive lines connected to the LEDs to the following pins:
+I wanted to be able to test my code. So I connected each of the positive lines
+connected to the LEDs to the following pins:
 
 | LED | Positive connected to pin # |
 | ---: | -------------------------- |
