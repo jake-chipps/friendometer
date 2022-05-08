@@ -10,7 +10,7 @@ permalink: /docs/code/
   - [Logic](#logic)
   - [Variables](#variables)
 - [2 Programming Output Pins (LEDs)](#programpins)
-- [3 Writing and Using Functions](#Functions)
+- [3 Writing and Using Functions](#functions)
 - [4 Programming the NeoPixels](#programneo)
 - [5 Programming Input Pins (Sensors)](#programsensors)
   - [Getting the Sensor Value](#getsensor)

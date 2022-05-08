@@ -54,7 +54,7 @@ LEDs. I chose the following symbols and explain my reasoning:
 At this point, I was ready to begin designing.
 
 ## 3 Design <a name="design"></a>
-There were two parts to the designing my ledger art project: drawing my visual
+There were two parts to designing my ledger art project: drawing my visual
 narrative and creating a circuit diagram on top of the visual narrative.
 
 ### Visual Narrative <a name="visualnarrative"></a>
@@ -74,7 +74,7 @@ This would mean that I would need to connect the positives of each LED to a diff
 pin on the Circuit Playground.
 
 I put tracing paper over my visual narrative so as not to have to start over if
-I made a mistake. I stated by drawing where I wanted the three LEDs to be
+I made a mistake. I started by drawing where I wanted the three LEDs to be
 placed. I then decided that I wanted all of my lines to go to the bottom of the
 paper so that I can connect the circuit playground at the bottom. To further
 simplify the circuit design, I drew the positive lines first. I decided to make
@@ -88,7 +88,7 @@ I knew that negative lines cannot cross positive lines. So my negative lines wou
 have to go above the LEDs and around on the right. I made the decision to have
 one continuous line connect all of the negatives of the LEDs and then go to ground
 on the Circuit Playground Express. I made certain that I identified which lines
-were positive by using red and which were negative by using blue. I also indicated
+were positive by using red, and which were negative by using blue. I also indicated
 polarity using a + and - on the drawing.
 
 ![circuit diagram completed](../guides/guide-resources/lap-circuit-diagram-complete.png)
