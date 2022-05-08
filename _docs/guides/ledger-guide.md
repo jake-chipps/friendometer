@@ -146,3 +146,8 @@ I would have had to debug and find where I made an error in my logic.
 I then made a *forever* loop and called the two functions I made.
 
 ![Ledger art project code](../guides/guide-resources/lap-add-forever-loop.png)
+
+I performed one final test, and was very happy with the results. Here is my final
+ledger art project.
+
+<span class="todo">Insert video of working project</span>
