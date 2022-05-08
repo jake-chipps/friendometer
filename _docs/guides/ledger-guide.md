@@ -105,9 +105,9 @@ tent on, maze and earth off.
 pause 1 second.
 tent and maze on, earth off.
 pause 1 second.
-second. tent, maze, and earth on.
+tent, maze, and earth on.
 pause 1 second.
-tent, maze, and earth flash quicly three times.
+tent, maze, and earth flash quickly three times.
 repeat.
 ```
 
