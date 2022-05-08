@@ -144,3 +144,5 @@ I tested both functions and the LEDs did what I wanted them to do! If they had n
 I would have had to debug and find where I made an error in my logic.
 
 I then made a *forever* loop and called the two functions I made.
+
+![Ledger art project code](../guides/guide-resources/lap-add-forever-loop.png)
