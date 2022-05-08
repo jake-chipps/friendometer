@@ -93,6 +93,11 @@ polarity using a + and - on the drawing.
 
 ![circuit diagram completed](../guides/guide-resources/lap-circuit-diagram-complete.png)
 
+I then removed the tracing paper, and added my LEDs and copper tape to the
+visual narrative as depicted in my circuit diagram.
+
+![visual narrative with LEDs and copper tape](../guides/guide-resources/lap-add-copper-tape.png)
+
 ### Code <a name="designcode"></a>
 Before programming, I [storyboarded my light pattern](../guides/guide-resources/lap-3-2_storyboard-ledger.pdf)
 using the student handout from [3-2 (Design the Ledger Art Project)](../3-2/).
