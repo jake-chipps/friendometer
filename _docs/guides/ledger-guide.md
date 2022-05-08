@@ -94,7 +94,7 @@ polarity using a + and - on the drawing.
 ![circuit diagram completed](../guides/guide-resources/lap-circuit-diagram-complete.png)
 
 ### Code <a name="designcode"></a>
-Before programming, I [storyboarded my light pattern](../guides-guide-resources/lap-3-2_storyboard-ledger.pdf)
+Before programming, I [storyboarded my light pattern](../guides/guide-resources/lap-3-2_storyboard-ledger.pdf)
 using the student handout from [3-2 (Design the Ledger Art Project)](../3-2/).
 In order to tell the story of how this was a sequential process, starting with
 the environment, and ending with my feelings about that environment, I wanted my
@@ -107,7 +107,7 @@ tent and maze on, earth off.
 pause 1 second.
 second. tent, maze, and earth on.
 pause 1 second.
-tent, maze, and earth flash intermittently three times with a .3 second pause between flashes.
+tent, maze, and earth flash quicly three times.
 repeat.
 ```
 
@@ -123,4 +123,4 @@ connected to the LEDs to the following pins:
 
 I connected the negative line to GND (ground).
 
-![Connect ledger art project to CPX](../guides/guide-resources/lap-connect-cpx/png)
+![Connect ledger art project to CPX](../guides/guide-resources/lap-connect-cpx.png)
