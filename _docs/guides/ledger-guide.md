@@ -28,7 +28,7 @@ class took a trip to Yosemite, where we camped and hiked for a week. This experi
 changed my world view and my connection with the Earth. I decided to build a
 visual narrative to tell the story of my first camping trip in Yosemite.
 
-I [completed the handout](../guide-resources/lap-3-1_telling-stories-with-symbols.pdf)
+I [completed the handout](../guides/guide-resources/lap-3-1_telling-stories-with-symbols.pdf)
 from [3-1 (Introduce the Ledger Art Project)](../3-1). I chose the following
 symbols to help visually tell my story:
 
@@ -56,7 +56,7 @@ At this point, I was ready to begin designing.
 I cut out a large piece of newspaper and glued it to card stock measuring 8.5" x
 11". I then trimmed the excess newspaper to fit the card stock.
 
-![newspaper on cardstock](../guide-resources/lap-newspaper.png)
+![newspaper on cardstock](../guides/guide-resources/lap-newspaper.png)
 
 
 
