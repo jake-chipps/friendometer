@@ -150,6 +150,4 @@ I then made a *forever* loop and called the two functions I made.
 I performed one final test, and was very happy with the results. Here is my final
 ledger art project.
 
-<span class="todo">Insert video of working project</span>
-
 ![gif of working ledger art project](../guides/guide-resources/lap-ledger-project.gif)
