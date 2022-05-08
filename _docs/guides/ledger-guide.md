@@ -115,7 +115,6 @@ pause 1 second.
 tent, maze, and earth flash quickly three times.
 repeat.
 ```
-
 ## 4 Program <a name="program"></a>
 I wanted to be able to test my code. So I connected each of the positive lines
 connected to the LEDs to the following pins:
@@ -129,3 +128,17 @@ connected to the LEDs to the following pins:
 I connected the negative line to GND (ground).
 
 ![Connect ledger art project to CPX](../guides/guide-resources/lap-connect-cpx.png)
+
+I wanted to be able to iteratively and sequentially test my code. So I decided
+to use functions and break up my light pattern into smaller pieces so that I
+could test them individually:
+
+| Function name | What it does |
+| ------------: | ------------ |
+|  *turn on one by one*  | A2 on, A1 and A0 off. pause 1 second. A2 and A1 on, A0 off. pause 1 second. A2, A1, and A0 on. pause 1 second.  |
+| *triple flash*  | repeat x 3 {A2, A1, A0 on. pause .3 seconds. A2, A1, A0 off. pause .3 seconds} |
+
+![creating the first two functions](../guides/guide-resources/lap-initial-functions.png)
+
+I tested both functions and the LEDs did what I wanted them to do! If they had not,
+I would have had to debug and find where I made an error in my logic.
