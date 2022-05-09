@@ -28,7 +28,7 @@ In order to create a 5-bit encryption for my message, I first needed to map the
 letters of the alphabet to decimal numbers, as described in [4-1 (Binary)](../4-1/).
 I decided to make *A = 1*, *B = 2*, *C = 3*, ... , *Z = 26*.
 
-I then needed a message to send. Since my Ledger Art Project is build around the
+I then needed a message to send. Since my Ledger Art Project is built around the
 idea of being in nature, I chose **nature** as the message I wanted to send using
 the NeoPixels on the Circuit Playground Express.
 
