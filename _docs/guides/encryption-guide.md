@@ -77,6 +77,11 @@ the message with the *End Message* function.
 
 ![forever loop of the encryption project](../guides/guide-resources/enc-main.png)
 
+In order to clean up my code a little, I created a new function called *Encryption Message*
+and put all the code in there. Then my *forever* loop only had one line of code in it.
+
+![simplified code using functions](../guide/guide-resources/enc-simplified.png)
+
 I downloaded the code to my Circuit Playground one last time, and this is the
 result!
 
