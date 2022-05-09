@@ -40,7 +40,7 @@ I then [storyboarded the code](../guides/guide-resources/enc-4-2_program-name.pd
 using the student handout from [4-2 (Encryption)](../4-2/) to make my message:
 
 |     Letter    |     Decimal    |     Binary    |     NeoPixel Pin State                              |
-|--------------:|:--------------:|:-------------:|-----------------------------------------------------|
+|--------------:|---------------:|:-------------:|-----------------------------------------------------|
 |     N         |     14         |     01110     |     0 OFF     1 ON     2 ON     3 ON     4 OFF      |
 |     A         |     1          |     00001     |     0 OFF     1 OFF     2 OFF     3 OFF     4 ON    |
 |     T         |     20         |     10100     |     0 ON     1 OFF     2 ON     3 OFF     4 OFF     |
