@@ -64,3 +64,18 @@ In this way, I could iteratively and sequentially test each letter on my Circuit
 Playground Express.
 
 ![functions for each letter of the message](../guides/guide-resources/enc-functions.png)
+
+Having tested my code, I realized that it would be very difficult to know when the
+message starts and ends. So I created a function that has all five NeoPixels flash
+white at the end of the message.
+
+![function to show the user when the message ends](../guides/guide-resources/enc-end-message.png)
+
+At this point, I was ready to put it all together. I made a forever block and
+called each of the letter functions with a one second pause between them. I ended
+the message with the *End Message* function.
+
+![forever loop of the encryption project](../guides/guide-resources/enc-main.png)
+
+I downloaded the code to my Circuit Playground one last time, and this is the
+result!
