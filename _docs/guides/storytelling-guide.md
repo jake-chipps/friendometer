@@ -34,7 +34,7 @@ I considered some of the questions I had before beginning:
   - Does *sound level* change while I tell a story or is *sound level* one value throughout?
 - Does the distance of the Circuit Playground Express from my mouth affect *sound level*?
 - Does environment affect *sound level*?
-- What if someone else wants to use my projec? Will someone else have the same *sound level* as me?
+- What if someone else wants to use my project? Will someone else have the same *sound level* as me?
 
 In order to answer these questions, I had to collect data. For the purposes of this
 project, I decided to simplify my inquiry and focus on two variables:
