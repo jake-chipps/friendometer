@@ -39,14 +39,14 @@ Using the NeoPixel guide in [4-1 (Binary)](../4-1/),
 I then [storyboarded the code](../guides/guide-resources/enc-4-2_program-name.pdf)
 using the student handout from [4-2 (Encryption)](../4-2/) to make my message:
 
-|     Letter    |     Binary    |     NeoPixel Pin State                                            |
-|--------------:|:-------------:|-----------------------------------------------------|
-|     N         |     01110     |     0 OFF     1 ON     2 ON     3 ON     4 OFF      |
-|     A         |     00001     |     0 OFF     1 OFF     2 OFF     3 OFF     4 ON    |
-|     T         |     10100     |     0 ON     1 OFF     2 ON     3 OFF     4 OFF     |
-|     U         |     10101     |     0 ON     1 OFF     2 ON     3 OFF     4 ON      |
-|     R         |     10010     |     0 ON     1 OFF     2 OFF     3 ON     4 OFF     |
-|     E         |     00101     |     0 OFF     1 OFF     2 ON     3 OFF     4 ON     |
+|     Letter    |     Decimal    |     Binary    |     NeoPixel Pin State                              |
+|--------------:|:--------------:|:-------------:|-----------------------------------------------------|
+|     N         |     14         |     01110     |     0 OFF     1 ON     2 ON     3 ON     4 OFF      |
+|     A         |     1          |     00001     |     0 OFF     1 OFF     2 OFF     3 OFF     4 ON    |
+|     T         |     20         |     10100     |     0 ON     1 OFF     2 ON     3 OFF     4 OFF     |
+|     U         |     21         |     10101     |     0 ON     1 OFF     2 ON     3 OFF     4 ON      |
+|     R         |     18         |     10010     |     0 ON     1 OFF     2 OFF     3 ON     4 OFF     |
+|     E         |     5          |     00101     |     0 OFF     1 OFF     2 ON     3 OFF     4 ON     |
 
 I was now ready to begin coding my project.
 
