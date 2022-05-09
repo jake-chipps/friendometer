@@ -83,12 +83,14 @@ if the sound level is greater than 119, then run my light patterns.
 else turn all the leds off.
 ```
 I knew that I needed to tell the computer to turn off the LEDs if *sound level* is
-less than 120 because my code is in a forever block, and unless the computer is
-specifically told to turn the LEDs off, they will not turn off. Since I only want
+less than 120 because my code is in a *forever* block, and unless the computer is
+specifically told to turn the LEDs off, they will not turn off. This is because
+my Ledger Art Project LEDs are controlled by the *digital write* block, which
+only updates if it is called again. Since I only want
 the project to run when I am telling my story, I needed to add this code.
 
 At this point, I did not have a way to turn off the Ledger Art Project LEDs.
-So I created two functions that would turn off all of the LEDs.
+So I created a function that would turn off all of the LEDs.
 
 ![all off function](../guides/guide-resources/sto-all-off.png)
 
@@ -106,4 +108,4 @@ pseucode above.
 
 ![final updated forever loop](../guides/guide-resources/sto-updated-forever.png)
 
-I then tested my project, and it worked!
+I then tested my project, and it worked! Others were also able to use my project!
