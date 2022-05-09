@@ -79,3 +79,5 @@ the message with the *End Message* function.
 
 I downloaded the code to my Circuit Playground one last time, and this is the
 result!
+
+![encryption final project video](../guides/guide-resources/enc-final-product.gif)
