@@ -56,4 +56,12 @@ I wrote some code that would print out the current *sound level* to the console.
 
 I collected data from my family and friends.
 
+| Participant     |    Close: Lowest    |     Close: Highest    |     Average: Lowest    |     Average: Highest    |     Far: Lowest    |     Far: Highest    |
+|-----------------|---------------------|-----------------------|------------------------|-------------------------|--------------------|---------------------|
+|     Me          |     45              |     187               |     41                 |     153                 |     45             |     116             |
+|     Alex        |     97              |     178               |     95                 |     163                 |     96             |     125             |
+|     Jamie       |     51              |     155               |     51                 |     143                 |     51             |     120             |
+|     Fernanda    |     53              |     192               |     53                 |     179                 |     52             |     154             |
+|     Sue         |     45              |     185               |     42                 |     169                 |     45             |     122             |
+
 ## 3 Program <a name="program"></a>
