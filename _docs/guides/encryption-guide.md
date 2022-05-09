@@ -25,7 +25,9 @@ individual project.
 
 ## 2 Plan <a name="plan"></a>
 In order to create a 5-bit encryption for my message, I first needed to map the
-letters of the alphabet to decimal numbers, as described in [4-1 (Binary)](../4-1/).
+letters of the alphabet to decimal numbers. I filled out the
+[Binary Communication Protocol](../guides/guide-resources/enc-4-1_binary-communication-protocol.pdf)
+from [4-1 (Binary)](../4-1). In my protocol,
 I decided to make *A = 1*, *B = 2*, *C = 3*, ... , *Z = 26*.
 
 I then needed a message to send. Since my Ledger Art Project is built around the
