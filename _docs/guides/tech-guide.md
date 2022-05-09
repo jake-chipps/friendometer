@@ -48,7 +48,6 @@ To connect, follow these steps:
 6. To download the code onto the CPX, click "Download" below the simulator on the left.
 
 ### Managing Projects <a name="projects"></a>
-<span class="todo">Write instructions to create, edit, duplicate, share a project</span>
 To create a new project, go the MakeCode home screen, and click "New Project."
 
 To share a project, click on "share" in the top left of the project. You will need
