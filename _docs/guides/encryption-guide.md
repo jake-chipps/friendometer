@@ -51,3 +51,16 @@ using the student handout from [4-2 (Encryption)](../4-2/) to make my message:
 I was now ready to begin coding my project.
 
 ## 3 Program <a name="program"></a>
+Since NeoPixels have data stored for their brightness and color, I first created
+an *on start* block to initialize the colors I will use in variables and set the
+brightness to 255 (full brightness). I created a variable called *on* to represent
+a NeoPixel (bit) being on and a variable called *off* to represent a NeoPixel (bit)
+being off. I decided to make the color cyan on and the color magenta off.
+
+![on start code for project](../guides/guide-resources/enc-on-start.png)
+
+Having my variables set up, I decided to turn each letter into its own function.
+In this way, I could iteratively and sequentially test each letter on my Circuit
+Playground Express.
+
+![functions for each letter of the message](../guides/guide-resources/enc-functions.png)
