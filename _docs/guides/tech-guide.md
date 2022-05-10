@@ -66,7 +66,6 @@ The materials we use to create circuits in this curriculum include:
 - **Circuit Playground Express** as a power source with computational functionality.
 
 ### Tips for Using Copper Tape <a name="copper"></a>
-<span class="todo">Write tips and tricks for using the copper tape</span>
 To use the copper tape, peel off the white paper on the back and run a finger
 done the tape to secure it to a surface so it is straight and flush against the
 surface. When connecting to an LED, secure firmly over the LED to tape it down.
@@ -100,7 +99,16 @@ You can make as many corners as you like with a single piece of tape.
 ![multiple corners](../guides/guide-resources/tec-multiple-corners.png)
 
 ### Tips for Using LEDs <a name="led"></a>
-<span class="todo">Write some LED "insider knowledge"</span>
+The LED has two poles: a positive leg and a negative leg. The longer leg is the
+positive pole, and the shorter leg is the negative pole.
+
+![an led](../guides/guide-resources/tec-led.png)
+
+You can also determine which side is negative by the flat side of the LED head.
+To add an LED to the paper, fold the legs outward so the LED is flush with the
+paper. The copper tape will connect to the leg on the paper.
+
+![splitting legs](../guides/guide-resources/tec-split-legs.png)
 
 ## 3 Circuit Playground Express <a name="cpx"></a>
 The Circuit Playground Express (CPX) is a programmable microcontroller that is used as an introduction to computing systems. For this curriculum, we will be using the following features built into the CPX:
