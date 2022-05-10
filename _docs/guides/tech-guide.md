@@ -67,6 +67,37 @@ The materials we use to create circuits in this curriculum include:
 
 ### Tips for Using Copper Tape <a name="copper"></a>
 <span class="todo">Write tips and tricks for using the copper tape</span>
+To use the copper tape, peel off the white paper on the back and run a finger
+done the tape to secure it to a surface so it is straight and flush against the
+surface. When connecting to an LED, secure firmly over the LED to tape it down.
+
+The copper tape we use is conductive on both sides. Although it is highly
+recommended that students use a single piece of copper tape for each of the lines on their
+circuit, it is not necessary. As long as the connection between multiple strips
+of tape is strong, the current should flow between multiple strips due to the
+tape's double-sided conductivity. If a students' project uses multiple strips,
+and the LEDs are not turning on, it could be a weak connection between the strips.
+This is why it is highly recommended that students use a single piece of tape
+for each of their lines.
+
+Because a single piece of tape is recommended, students will need to create corners
+with their tape to accommodate their circuit diagrams. To change the direction
+of the copper tape, first start with some tape on the paper.
+
+![beginning of copper tape](../guides/guide-resources/tec-copper-start.png)
+
+Then fold the tape down in the opposite direction you want to go, and crease the
+tape so it is flush with the paper.
+
+![fold in opposite direction](../guides/guide-resources/tec-fold-opposite.png)
+
+Fold the tape over itself in the direction you want to go and continue your lines.
+
+![fold over self](../guides/guide-resources/tec-fold-over-self.png)
+
+You can make as many corners as you like with a single piece of tape.
+
+![multiple corners](../guides/guide-resources/tec-multiple-corners.png)
 
 ### Tips for Using LEDs <a name="led"></a>
 <span class="todo">Write some LED "insider knowledge"</span>
