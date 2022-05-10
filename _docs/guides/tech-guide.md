@@ -116,6 +116,8 @@ The Circuit Playground Express (CPX) is a programmable microcontroller that is u
 - 5 mini **NeoPixels**
 - 1 sound **sensor**
 
+![cpx](../guides/guide-resources/tec-cpx.png)
+
 ### Input/Output Pins <a name="pins"></a>
 <span class="todo">Explanation of the differences between each of the pins and how we use them</span>
 
