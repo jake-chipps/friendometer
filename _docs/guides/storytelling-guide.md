@@ -55,9 +55,9 @@ I wrote some code that would print out the current *sound level* to the console.
 
 ![printing the sound level to the console](../guides/guide-resources/sto-print-sound.png)
 
-I collected data from my family and friends. Close was defined as placing the
-CPX next to the speaker's mouth, average was defined as average talking distance
-from another person, and far was defined as about 15-20 feet away.
+I collected data from my family and friends. *Close* was defined as placing the
+CPX next to the speaker's mouth, *average* was defined as average talking distance
+from another person, and *far* was defined as about 15-20 feet away.
 
 | Participant     |    Close: Lowest    |     Close: Highest    |     Average: Lowest    |     Average: Highest    |     Far: Lowest    |     Far: Highest    |
 |----------------:|---------------------|-----------------------|------------------------|-------------------------|--------------------|---------------------|
