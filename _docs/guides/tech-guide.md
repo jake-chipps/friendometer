@@ -118,16 +118,55 @@ The Circuit Playground Express (CPX) is a programmable microcontroller that is u
 
 ![cpx](../guides/guide-resources/tec-cpx.png)
 
-### Input/Output Pins <a name="pins"></a>
-<span class="todo">Explanation of the differences between each of the pins and how we use them</span>
+### Output Pins <a name="pins"></a>
+Students should connect the positive side of their LEDs to the following output
+pins: **A0**, **A1**, **A2**, **A3**, **A4**, **A5**, **A6**, **A7**. An alligator
+clip can easily connect to these pins.
 
-<span class="todo">Explanation of pins we should not use and why (include symbols for warnings)</span>
+![pins to connect to LEDs](../guids/guide-resources/tec-output-pins.png)
+
+The negative line(s) of the LEDs should be connected to ground, which is notated
+as **GND** on the Circuit Playground.
+
+![ground pins](../guides/guide-resources/tec-ground.png)
+
+The **3.3V** volt pins are not programmable. There is constant current running
+through these pins when the CPX is connected to a power source. Any LEDs connected
+to **3.3V** will always be on. This could be a design decision for students if
+they like.
+
+![3.3V pins](../guides/guide-resources/tec-constant-current.png)
+
+Students should never connect their project to Vout, as this can cause overheating
+and potential smoke/fire.
+
+![Vout pins warning](../guides/guide-resources/tec-warning-pin.png)
 
 ### NeoPixels <a name="neopixels"></a>
-<span class="todo">Explanation of the NeoPixels: locations, colors, brightness</span>
+There are ten NeoPixels on the Circuit Playground Express which will be used in
+the Encryption Project [5-2 (Encryption)](../5-2/). The NeoPixels differ from
+the individual LEDs connected in the Ledger Art Project that that they contain
+additional data within them: position, color, and brightness. The positions of
+the NeoPixels are provided here.
+
+![NeoPixel positions](../guides/guide-resources/tec-pixel-positions.png)
+
+Adjusting the color and brightness of the NeoPixels is explored in the
+[Coding Guide](../code/).
 
 ### Sensors <a name="sensors"></a>
-<span class="todo">Explanation of the sensors present on the CPX and their referenced pins</span>
+Lesson [5-2 (Human-Computer Interaction)](../5-2/) uses the microphone on the
+Circuit Playground Express.
 
-### Troubleshooting the CPX <a name="troubleshoot"></a>
-<span class="todo">Things that can go wrong and how to fix it</span>
+![microphone location](../guides/guide-resources/tec-microphone.png)
+
+There are other sensors included on the CPX that this curriculum does not explore:
+- motion
+- temperature
+- light
+
+![other sensors](../guides/guide-resources/tec-other-sensors.png)
+
+There are other input devices including two push buttons and a slide switch.
+
+![buttons and switch](../guides/guide-resources/tec-buttons.png)
