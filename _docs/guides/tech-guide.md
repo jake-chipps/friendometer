@@ -14,7 +14,7 @@ permalink: /docs/tech/
   - [Output Pins](#pins)
   - [NeoPixels](#neopixels)
   - [Input](#input)
-  - [Music](#music)
+  - [Speaker](#speaker)
 
 ## 1 MakeCode <a name="makecode"></a>
 [MakeCode](https://makecode.adafruit.com/) is a free, web-based coding platform
@@ -174,8 +174,8 @@ as touch sensors.
 
 ![buttons and switch](../guides/guide-resources/tec-buttons.png)
 
-### Music <a name="music"></a>
-Although not utilized in this curriculum, the buzzer on the Circuit Playground
+### Speaker <a name="speaker"></a>
+Although not utilized in this curriculum, the speaker on the Circuit Playground
 Express can play sounds, tones, and melodies. This is a great component to
 use for differentiation should some students finish early.
 
