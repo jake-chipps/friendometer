@@ -3,7 +3,7 @@ title: Technical Guide
 permalink: /docs/tech/
 ---
 ## Table of Contents
-- [1 Supplies](#supplies)
+- [1 Supply List](#supplies)
 - [2 MakeCode](#makecode)
   - [Saving and Sharing Projects](#shareproject)
   - [Connecting the Circuit Playground Express to MakeCode](#cpx-makecode)
