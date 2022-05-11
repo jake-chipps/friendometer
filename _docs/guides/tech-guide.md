@@ -145,13 +145,13 @@ and potential smoke/fire.
 ### NeoPixels <a name="neopixels"></a>
 There are ten NeoPixels on the Circuit Playground Express which will be used in
 the Encryption Project [5-2 (Encryption)](../5-2/). The NeoPixels differ from
-the individual LEDs connected in the Ledger Art Project that that they contain
+the individual LEDs connected in the Ledger Art Project in that they contain
 additional data within them: **position**, **color**, and **brightness**. The positions of
 the NeoPixels are provided here.
 
 ![NeoPixel positions](../guides/guide-resources/tec-pixel-positions.png)
 
-Adjusting the color and brightness of the NeoPixels is explored in the
+Adjusting the **color** and **brightness** of the NeoPixels is explored in the
 [Coding Guide](../code/).
 
 ### Input <a name="input"></a>
