@@ -3,20 +3,38 @@ title: Technical Guide
 permalink: /docs/tech/
 ---
 ## Table of Contents
-- [1 MakeCode](#makecode)
+- [1 Supplies](#supplies)
+- [2 MakeCode](#makecode)
   - [Saving and Sharing Projects](#shareproject)
   - [Connecting the Circuit Playground Express to MakeCode](#cpx-makecode)
   - [Managing Projects](#projects)
-- [2 Circuits](#circuits)
+- [3 Circuits](#circuits)
   - [Tips for Using Copper Tape](#copper)
   - [Tips for Using LEDs](#led)
-- [3 Circuit Playground Express](#cpx)
+- [4 Circuit Playground Express](#cpx)
   - [Output Pins](#pins)
   - [NeoPixels](#neopixels)
   - [Input](#input)
   - [Speaker](#speaker)
 
-## 1 MakeCode <a name="makecode"></a>
+## 1 Supplies <a name="supplies"></a>
+Supplies will be distinguished between what pairs of students need and what the whole class will need. We recommend that supplies for pairs are stored in individual bags that can close. In this way, students can put their materials away at the end of class and store their materials in the classroom.
+
+**Supplies per student pair**:
+- 1 Circuit Playground Express
+- 6 LEDs
+- Copper Tape
+- 4 Alligator clips
+- 1 USB to micro USB
+
+**Supplies for the classroom**:
+- Card stock
+- Newspaper
+- Glue
+- Markers / Colored pencils (no graphite)
+- Tracing paper
+
+## 2 MakeCode <a name="makecode"></a>
 [MakeCode](https://makecode.adafruit.com/) is a free, web-based coding platform
 that uses drag-and-drop blocks to scaffold learning. Students will create accounts
 in MakeCode and can save their projects. Projects can be duplicated, edited,
@@ -59,7 +77,7 @@ then click "edit" at the top. This is a duplicated project, and when shared, wil
 yield a different link from the original. This allows us to create versions of our
 projects.
 
-## 2 Circuits <a name="circuits"></a>
+## 3 Circuits <a name="circuits"></a>
 The materials we use to create circuits in this curriculum include:
 - **copper tape** as an insulator
 - **LEDs** for light patterns
@@ -110,7 +128,7 @@ paper. The copper tape will connect to the leg on the paper.
 
 ![splitting legs](../guides/guide-resources/tec-split-legs.png)
 
-## 3 Circuit Playground Express <a name="cpx"></a>
+## 4 Circuit Playground Express <a name="cpx"></a>
 The Circuit Playground Express (CPX) is a programmable microcontroller that is used as an introduction to computing systems. For this curriculum, we will be using the following features built into the CPX:
 - 8 alligator-clip friendly input/output **pins**
 - 5 mini **NeoPixels**
