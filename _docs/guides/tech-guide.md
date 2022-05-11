@@ -123,7 +123,7 @@ Students should connect the positive side of their LEDs to the following output
 pins: **A0**, **A1**, **A2**, **A3**, **A4**, **A5**, **A6**, **A7**. An alligator
 clip can easily connect to these pins.
 
-![pins to connect to LEDs](../guids/guide-resources/tec-output-pins.png)
+![pins to connect to LEDs](../guides/guide-resources/tec-output-pins.png)
 
 The negative line(s) of the LEDs should be connected to ground, which is notated
 as **GND** on the Circuit Playground.
@@ -164,6 +164,7 @@ There are other sensors included on the CPX that this curriculum does not explor
 - motion
 - temperature
 - light
+- infrared receiver
 
 ![other sensors](../guides/guide-resources/tec-other-sensors.png)
 
