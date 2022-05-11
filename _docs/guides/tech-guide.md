@@ -137,7 +137,7 @@ they like.
 
 ![3.3V pins](../guides/guide-resources/tec-constant-current.png)
 
-Students should never connect their project to Vout, as this can cause overheating
+Students should *never* connect their project to **Vout**, as this can cause overheating
 and potential smoke/fire.
 
 ![Vout pins warning](../guides/guide-resources/tec-warning-pin.png)
@@ -146,7 +146,7 @@ and potential smoke/fire.
 There are ten NeoPixels on the Circuit Playground Express which will be used in
 the Encryption Project [5-2 (Encryption)](../5-2/). The NeoPixels differ from
 the individual LEDs connected in the Ledger Art Project that that they contain
-additional data within them: position, color, and brightness. The positions of
+additional data within them: **position**, **color**, and **brightness**. The positions of
 the NeoPixels are provided here.
 
 ![NeoPixel positions](../guides/guide-resources/tec-pixel-positions.png)
