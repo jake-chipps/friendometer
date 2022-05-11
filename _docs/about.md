@@ -1,5 +1,5 @@
 ---
-title: Acknowledgements
+title: Grant Information
 permalink: /docs/about/
 ---
 
