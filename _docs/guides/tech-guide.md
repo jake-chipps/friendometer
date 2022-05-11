@@ -11,10 +11,10 @@ permalink: /docs/tech/
   - [Tips for Using Copper Tape](#copper)
   - [Tips for Using LEDs](#led)
 - [3 Circuit Playground Express](#cpx)
-  - [Input/Output Pins](#pins)
+  - [Output Pins](#pins)
   - [NeoPixels](#neopixels)
-  - [Sensors](#sensors)
-  - [Troubleshooting the CPX](#troubleshoot)
+  - [Input](#input)
+  - [Music](#music)
 
 ## 1 MakeCode <a name="makecode"></a>
 [MakeCode](https://makecode.adafruit.com/) is a free, web-based coding platform
@@ -154,7 +154,7 @@ the NeoPixels are provided here.
 Adjusting the color and brightness of the NeoPixels is explored in the
 [Coding Guide](../code/).
 
-### Sensors <a name="sensors"></a>
+### Input <a name="input"></a>
 Lesson [5-2 (Human-Computer Interaction)](../5-2/) uses the microphone on the
 Circuit Playground Express.
 
@@ -164,10 +164,19 @@ There are other sensors included on the CPX that this curriculum does not explor
 - motion
 - temperature
 - light
-- infrared receiver
+- infrared transmitter/receiver
 
 ![other sensors](../guides/guide-resources/tec-other-sensors.png)
 
 There are other input devices including two push buttons and a slide switch.
+Pins **A1**, **A2**, **A3**, **A4**, **A5**, **A6**, **A7** can also be used
+as touch sensors.
 
 ![buttons and switch](../guides/guide-resources/tec-buttons.png)
+
+### Music <a name="music"></a>
+Although not utilized in this curriculum, the buzzer on the Circuit Playground
+Express can play sounds, tones, and melodies. This is a great component to
+use for differentiation should some students finish early.
+
+![music](../guides/guide-resources/tec-music.png)
