@@ -17,7 +17,7 @@ permalink: /docs/tech/
   - [Input](#input)
   - [Speaker](#speaker)
 
-## 1 Supplies <a name="supplies"></a>
+## 1 Supply List <a name="supplies"></a>
 Supplies will be distinguished between what pairs of students need and what the whole class will need. We recommend that supplies for pairs are stored in individual bags that can close. In this way, students can put their materials away at the end of class and store their materials in the classroom.
 
 **Supplies per student pair**:
