@@ -129,7 +129,11 @@ paper. The copper tape will connect to the leg on the paper.
 ![splitting legs](../guides/guide-resources/tec-split-legs.png)
 
 ## 4 Circuit Playground Express <a name="cpx"></a>
-The Circuit Playground Express (CPX) is a programmable microcontroller that is used as an introduction to computing systems. For this curriculum, we will be using the following features built into the CPX:
+The Circuit Playground Express (CPX) is made by [Adafruit](https://www.adafruit.com/)
+and [can be purchased on their website](https://www.adafruit.com/product/3333).
+The CPX is a programmable microcontroller that is used as an
+introduction to computing systems. For this curriculum, we will be using the
+following features built into the CPX:
 - 8 alligator-clip friendly input/output **pins**
 - 5 mini **NeoPixels**
 - 1 sound **sensor**

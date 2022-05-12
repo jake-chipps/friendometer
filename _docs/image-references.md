@@ -14,7 +14,8 @@ permalink: /docs/images/
 
 | Image | Source | License |
 | ----- | ------ | ------- |
-|   |   |   |
+| ![Red LED](https://www.iconspng.com/images/red-led-lamp-on/red-led-lamp-on.jpg) | [Source](https://www.iconspng.com/image/68161/red-led-lamp-on)  | "Red LED Lamp (On) PNG icons - The pictures are free for personal and even for commercial use. You can modify, copy and distribute the vectors on Red LED Lamp (On) in iconspng.com. All without asking for permission or setting a link to the source. So, attribution is not required."  |
+| ![simple circuit diagram](../resources/images/2-1_circuit-diagram-handout.png)  | Developed by Storytelling Team. | [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  |
 
 ## 2-2 Parallel and Series Circuits
 
