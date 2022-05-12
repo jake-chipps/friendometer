@@ -13,65 +13,95 @@ permalink: /docs/images/
 ## 2-1 Simple Circuits
 
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 2-2 Parallel and Series Circuits
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 3-1 Introduce the Ledger Art Project
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 3-2 Design the Ledger Art Project
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 3-3 Program the Ledger Art Project
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 4-1 Binary
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 4-2 Encryption
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 4-3 Talking Without Words
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 5-1 Relocation
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 5-2 Human-Computer Interaction
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## 5-3 Storytelling
+
 | Image | Source | License |
-| ----- | ------ |
+| ----- | ------ | ------- |
+|   |   |   |
 
 ## Home Page
+
 | Image | Source | License |
 | ----- | ------ | ------- |
-|    |   |   |
+|   |   |   |
 
 ## Technical Guide
+
 | Image | Source | License |
 | ----- | ------ | ------- |
+|   |   |   |
 
 ## Ledger Art Project Guide
+
 | Image | Source | License |
 | ----- | ------ | ------- |
+|   |   |   |
 
 ## Encryption Project Guide
+
 | Image | Source | License |
 | ----- | ------ | ------- |
+|   |   |   |
 
 ## Storytelling Project Guide
+
 | Image | Source | License |
 | ----- | ------ | ------- |
+|   |   |   |
