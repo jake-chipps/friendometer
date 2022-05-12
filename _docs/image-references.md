@@ -5,11 +5,13 @@ permalink: /docs/images/
 <span class="todo">Add CC info for all images used</span>
 
 ## 1-1 Tribal Areas of Montana & Treaties
+
 | Image | Source | License |
 | ----- | ------ | ------- |
 | ![reservation map](../resources/images/1-1_map.png) | [Source](https://www.montana.edu/iefa/introductiontomttribalnations/tribalterritories.html) | &copy; 2010 Regional Learning Project, University of Montana, Missoula  |
 
 ## 2-1 Simple Circuits
+
 | Image | Source | License |
 | ----- | ------ |
 
