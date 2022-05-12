@@ -2,107 +2,30 @@
 title: Image References
 permalink: /docs/images/
 ---
-<span class="todo">Add CC info for all images used</span>
+All images used in this curriculum that were not developed by the Storytelling
+Team are provided below. Although some images are used more than once throughout
+the curriculum, you can find these images by their reference in the curriculum.
 
-## 1-1 Tribal Areas of Montana & Treaties
+All images on this website not referenced on this page were developed by the
+Storytelling Team and are licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-| Image | Source | License |
-| ----- | ------ | ------- |
-| ![reservation map](../resources/images/1-1_map.png) | [Source](https://www.montana.edu/iefa/introductiontomttribalnations/tribalterritories.html) | &copy; 2010 Regional Learning Project, University of Montana, Missoula  |
-
-## 2-1 Simple Circuits
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-| ![Red LED](https://www.iconspng.com/images/red-led-lamp-on/red-led-lamp-on.jpg) | [Source](https://www.iconspng.com/image/68161/red-led-lamp-on)  | "Red LED Lamp (On) PNG icons - The pictures are free for personal and even for commercial use. You can modify, copy and distribute the vectors on Red LED Lamp (On) in iconspng.com. All without asking for permission or setting a link to the source. So, attribution is not required."  |
-| ![simple circuit diagram](../resources/images/2-1_circuit-diagram-handout.png)  | Developed by Storytelling Team. | [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  |
-
-## 2-2 Parallel and Series Circuits
+## Section 1: Ledger Art
 
 | Image | Source | License |
 | ----- | ------ | ------- |
-|   |   |   |
+| ![reservation map](../resources/images/1-1_map.png) | [montana.edu](https://www.montana.edu/iefa/introductiontomttribalnations/tribalterritories.html) | &copy; 2010 Regional Learning Project, University of Montana, Missoula  |
 
-## 3-1 Introduce the Ledger Art Project
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## 3-2 Design the Ledger Art Project
+## Section 2: Circuits
 
 | Image | Source | License |
 | ----- | ------ | ------- |
-|   |   |   |
+| Red LED | [Source](https://www.iconspng.com/image/68161/red-led-lamp-on)  | "Red LED Lamp (On) PNG icons - The pictures are free for personal and even for commercial use. You can modify, copy and distribute the vectors on Red LED Lamp (On) in [iconspng.com](http://www.iconspng.com). All without asking for permission or setting a link to the source. So, attribution is not required."  |
+| Circuit Playground Express  | [Source](https://www.flickr.com/photos/adafruit/34783187596) Image was modified by Storytelling Team to vectorize the image, which changed some colors. | [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) |
 
-## 3-3 Program the Ledger Art Project
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## 4-1 Binary
+## Section 4: Encryption
 
 | Image | Source | License |
 | ----- | ------ | ------- |
-|   |   |   |
-
-## 4-2 Encryption
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## 4-3 Talking Without Words
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## 5-1 Relocation
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## 5-2 Human-Computer Interaction
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## 5-3 Storytelling
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## Home Page
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## Technical Guide
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## Ledger Art Project Guide
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## Encryption Project Guide
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
-
-## Storytelling Project Guide
-
-| Image | Source | License |
-| ----- | ------ | ------- |
-|   |   |   |
+| Power Symbol | [Source](https://freesvg.org/power-symbol) | [Public Domain](https://creativecommons.org/licenses/publicdomain/)  |
+| ![binary cards](../resources/images/4-1_binary-cards-img.png)  | [CSunplugged.org](https://www.csunplugged.org/en/resources/binary-cards/) Cards were put together in a row by the Storytelling Team | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  |
+| ![shift circle](../resources/images/4-2_shift-circle.png) | [commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Caesar_Shift_Cipher_Wheel.png) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)  |
