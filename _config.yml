@@ -1,13 +1,13 @@
 # Site settings
-title: Ledger Art
-email: storytelling@montana.edu
+title: Physical Computing Curriculum
+email: joseph.chipps@montana.edu
 description: >
   CS & IEFA Curriculum for Montana
 lang: en-US
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
-baseurl: "/ledger-art" # the subpath of your site, e.g. /blog/
-url:  https://montanastorytelling.github.io/ledger-art # the base hostname & protocol for your site
-git_address: https://github.com/montanastorytelling/ledger-art
+baseurl: "/friendometer" # the subpath of your site, e.g. /blog/
+url:  https://jake-chipps.github.io/friendometer # the base hostname & protocol for your site
+git_address: https://github.com/jake-chipps/friendometer
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
