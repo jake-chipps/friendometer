@@ -2,7 +2,7 @@
 title: Physical Computing Curriculum
 email: joseph.chipps@montana.edu
 description: >
-  CS & IEFA Curriculum for Montana
+  CS Curriculum for Montana
 lang: en-US
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 baseurl: "/friendometer" # the subpath of your site, e.g. /blog/
