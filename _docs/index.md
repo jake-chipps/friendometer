@@ -1,10 +1,10 @@
 ---
-title: Arduino CUrriculum
+title: Arduino Curriculum
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## An Overview of the Arduino Curriculum
+## Overview
 
 This curriculum introduces students to programming physical computational artifacts.
 
