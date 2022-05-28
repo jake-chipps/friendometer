@@ -32,11 +32,36 @@
     content: "]";
   }
 }
+
 .jake {
   color: Magenta;
   &:before {
     font-weight: bold;
     content: "[XXX Jake Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.important {
+  color: Red;
+  &:before {
+    font-weight: bold;
+    content: "[Important: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.think {
+  color: Gold;
+  &:before {
+    font-weight: bold;
+    content: "[Pause and consider: ";
   }
   &:after {
     font-weight: bold;
