@@ -68,3 +68,11 @@
     content: "]";
   }
 }
+
+.solution {
+  color: White;
+  border-style: dashed;
+  &:hover {
+    color: Black;
+  }
+}
