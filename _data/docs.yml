@@ -5,13 +5,40 @@
   - code
   - friendometer
 
-- title: Days
+- title: 1 Circuits
   docs:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
+  - 1-0
+  - 1-1
+  - 1-2
+  - 1-3
+
+- title: 2 Design
+  docs:
+  - 2-0
+  - 2-1
+  - 2-2
+  - 2-3
+
+- title: 3 Control Stuctures
+  docs:
+  - 3-0
+  - 3-1
+  - 3-2
+  - 3-3
+
+- title: 4 Data Structures
+  docs:
+  - 4-0
+  - 4-1
+  - 4-2
+  - 4-3
+
+- title: 5 Inclusive Design
+  docs:
+  - 5-0
+  - 5-1
+  - 5-2
+  - 5-3
 
 - title: Licensing
   docs:
