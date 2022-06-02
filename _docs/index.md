@@ -6,7 +6,7 @@ redirect_from: /docs/index.html
 
 ## Overview
 
-This curriculum introduces students to programming physical computational artifacts.
+This curriculum is an introduction to programming physical computational artifacts. 
 
 ### 1 Circuits
 - Design and create simple, parallel, and computational circuits.
