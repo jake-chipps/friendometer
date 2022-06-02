@@ -3,9 +3,11 @@ title: About
 permalink: /docs/about/
 ---
 
-## Authors
+## Author
 
 ### Jake Chipps
+
+## Acknowedgements
 
 ### Keri Hallau
 

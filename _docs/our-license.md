@@ -10,5 +10,5 @@ This curriculum is released under a [Creative Commons BY-NC-SA 4.0](https://crea
 To cite this curriculum please use:
 
 ```
-Chipps, J. & Hallau, K. (2022). Computing with Arduino (Grade 6-8) [Peaks and Potentials, Montana State University]. https://jake-chipps.github.io/friendometer/.
+Chipps, J. (2022). Computing with Arduino (Grade 6-8) [Peaks and Potentials, Montana State University]. https://jake-chipps.github.io/friendometer/.
 ```
